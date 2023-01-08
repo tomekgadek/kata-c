@@ -1,5 +1,5 @@
 /*
-	Program rysujac czworokat o podanych przez uzytkownika wymiarach.
+	Program rysuje czworokat o podanych przez uzytkownika wymiarach.
 */
 
 #include <stdio.h>
