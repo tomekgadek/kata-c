@@ -4,7 +4,13 @@
 
 #include <stdio.h>
 
-void print_rectangle(int, int);
+/**
+ * Rysuje na standardowym wyjsciu czworokat o podanej szerokosci i wysokosci.
+ * 
+ * @param int heigh
+ * @param int width
+ */
+void print_rectangle(int height, int width);
 
 int main(void) {
 
@@ -12,9 +18,9 @@ int main(void) {
 	int width = 0;
 
 	printf("Wpisz wysokosc czworokata:  ");
-	scanf("%d",&height);
+	scanf("%d", &height);
 	printf("Wpisz szerokosc czworokata: ");
-	scanf("%d",&width);
+	scanf("%d", &width);
 
 	print_rectangle(height, width);
 
