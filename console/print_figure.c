@@ -7,8 +7,8 @@
 /**
  * Rysuje na standardowym wyjsciu czworokat o podanej szerokosci i wysokosci.
  * 
- * @param int heigh
- * @param int width
+ * @param heigh wysokosc czworokata.
+ * @param width szerokosc czworokata.
  */
 void print_rectangle(int height, int width);
 
