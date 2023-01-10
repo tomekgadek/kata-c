@@ -24,7 +24,7 @@ Rekurencja
 ----------
 
 1. Palindrom
-2. Silnia
+2. [Silnia](/recursion/factorial.c)
 
 Matematyka
 ----------
