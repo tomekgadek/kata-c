@@ -1,5 +1,5 @@
 /*
-	Program rysuje obramowanie czworokata o wymiarach podanych przez uzytkownika.
+	Program rysuje obramowanie czworokata o podanych przez uzytkownika wymiarach.
 */
 
 #include <stdio.h>
@@ -31,13 +31,12 @@ void print_rectangle_with_border(int height, int width) {
 
 	for(int i = 0; i < height; i++) {
 		for(int j = 0; j < width; j++) {
-            if(i == 0 || j == 0 || i == height - 1 || j == width - 1) {
-			    printf("o");
-            } else {
-                printf(" ");
-            }
+			if(i == 0 || j == 0 || i == height - 1 || j == width - 1) {
+				printf("o");
+			} else {
+				printf(" ");
+			}
 		}
-		
 		printf("\n");
 	}
 }
