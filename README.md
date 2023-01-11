@@ -7,6 +7,7 @@ Praca z konsolą
 1. Rysowanie figur geometrycznych
     * [Prostokąt](/console/print_rectangle.c),
     * [Obramowanie prostokąta](/console/print_rectangle_with_border.c)
+    * [Trójkąt prostokątny](/console/print_triangle_rectangular.c)
 
 Algorytmy i struktury danych
 ----------------------------
