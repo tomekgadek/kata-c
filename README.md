@@ -6,27 +6,27 @@ Praca z konsolą
 
 1. Rysowanie figur geometrycznych
     * [Prostokąt](/console/print_rectangle.c),
-    * [Obramowanie prostokąta](/console/print_rectangle_with_border.c)
-    * [Trójkąt prostokątny](/console/print_triangle_rectangular.c)
+    * [Obramowanie prostokąta](/console/print_rectangle_with_border.c),
+    * [Trójkąt prostokątny](/console/print_triangle_rectangular.c).
 
 Algorytmy i struktury danych
 ----------------------------
 
-1. Wyszukiwanie
-    * Wyszukiwanie liniowe
-    * Wyszukiwanie binarne
-2. Sortowanie
-    * Sortowanie bąbelkowe
-3. Listy liniowe
-    * Lista jednokierunkowa
-    * Lista dwukierunkowa
-4. Drzewa
+1. Wyszukiwanie:
+    * Wyszukiwanie liniowe,
+    * Wyszukiwanie binarne.
+2. Sortowanie:
+    * Sortowanie bąbelkowe.
+3. Listy liniowe:
+    * Lista jednokierunkowa,
+    * Lista dwukierunkowa.
+4. Drzewa:
 
 Rekurencja
 ----------
 
-1. Palindrom
-2. [Silnia](/recursion/factorial.c)
+1. [Palindrom](/recursion/palindrome.c),
+2. [Silnia](/recursion/factorial.c).
 
 Matematyka
 ----------

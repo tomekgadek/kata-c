@@ -8,12 +8,12 @@
 /**
  * Porownuje dlugosci ciagow tekstowych.
  * 
- * @param textFirst adres pierwszego ciągu tekstowego.
- * @param textSecond adres drugiego ciagu tekstowego.
+ * @param text_first adres pierwszego ciągu tekstowego.
+ * @param text_second adres drugiego ciagu tekstowego.
  *
  * @return 1 - textFirst > textSecond, 2 - textFirst < textSecond, 0 - textFirst = textSecond.
  */
-int compare(char *textFirst, char *textSecond);
+int compare(char *text_first, char *text_second);
 
 int main(void) {
 
@@ -29,18 +29,18 @@ int main(void) {
     return 0;
 }
 
-int compare(char *textFirst, char *textSecond) {
+int compare(char *text_first, char *text_second) {
 
-    while(*textFirst && *textSecond) {
-        textFirst++;
-        textSecond++;
+    while(*text_first && *text_second) {
+        text_first++;
+        text_second++;
     }
 
-    if(*textFirst) {
+    if(*text_first) {
         return 1;
     }
 
-    if(*textSecond) {
+    if(*text_second) {
         return 2;
     }
 
