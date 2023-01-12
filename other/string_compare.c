@@ -11,7 +11,7 @@
  * @param text_first adres pierwszego ciągu tekstowego.
  * @param text_second adres drugiego ciagu tekstowego.
  *
- * @return 1 - textFirst > textSecond, 2 - textFirst < textSecond, 0 - textFirst = textSecond.
+ * @return 1 - text_first > text_second, 2 - text_first < text_second, 0 - text_first = text_second.
  */
 int compare(char *text_first, char *text_second);
 
