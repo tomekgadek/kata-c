@@ -34,3 +34,7 @@ Matematyka
 1. NWD
 2. NWW
 
+Pozostałe
+---------
+
+1. [Porównywanie ciągów tekstowych](/other/string_compare.c)
