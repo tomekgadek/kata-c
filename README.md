@@ -39,4 +39,4 @@ Pozostałe
 ---------
 
 1. [Porównywanie ciągów tekstowych](/other/string_compare.c),
-2. Losowanie lotto.
+2. [Losowanie lotto](/other/lottery.c).
