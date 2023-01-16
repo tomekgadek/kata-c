@@ -17,7 +17,7 @@ Algorytmy i struktury danych
     * Wyszukiwanie liniowe,
     * Wyszukiwanie binarne.
 2. Sortowanie:
-    * Sortowanie bąbelkowe.
+    * [Sortowanie bąbelkowe](/algorithms/bubble_sort.c).
 3. Listy liniowe:
     * Lista jednokierunkowa,
     * Lista dwukierunkowa.
