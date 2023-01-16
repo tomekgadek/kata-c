@@ -32,8 +32,8 @@ Rekurencja
 Matematyka
 ----------
 
-1. NWD
-2. NWW
+1. NWD,
+2. NWW.
 
 Pozostałe
 ---------

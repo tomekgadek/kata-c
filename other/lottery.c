@@ -28,6 +28,14 @@ int *lottery(int quantity_result_numbers, int quantity_numbers, int *digits);
 bool is_digit_exists(int digit, int size, int *digits);
 
 /**
+ * Prezentuje wynik losowania.
+ * 
+ * @param digits tablica wylosowanych liczb.
+ * @param size rozmiar tablicy wylosowanych liczb.
+ */
+void show_result(int *digits, int size);
+
+/**
  * Alokuje pamiec oraz zwraca utworzony obiekt.
  * 
  * @param size rozmiar tablicy.
@@ -37,7 +45,7 @@ bool is_digit_exists(int digit, int size, int *digits);
 int *new(int size);
 
 /**
- * Alokuje pamiec oraz zwraca utworzony obiekt.
+ * Zwalnia pamiec.
  * 
  * @param *object wskaznik do obiektu.
  */
@@ -51,12 +59,7 @@ int main(void) {
     int *digits = new(lottery_digits);
 
     int *result = lottery(lottery_digits, all_lottery_digits, digits);
-
-    for(int i = 0; i < lottery_digits; i++) {
-        printf("%d ", result[i]);
-    }
-
-    printf("\n");
+    show_result(result, lottery_digits);
 
     delete(digits);
     
@@ -99,6 +102,15 @@ bool is_digit_exists(int digit, int size, int *digits) {
     }
 
     return false;
+}
+
+void show_result(int *digits, int size) {
+
+    for(int i = 0; i < size; i++) {
+        printf("%d ", digits[i]);
+    }
+
+    printf("\n");
 }
 
 int *new(int size) {
