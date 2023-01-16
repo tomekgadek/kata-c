@@ -40,7 +40,6 @@ int *bubble_sort(int *digits, int size) {
         for(int j = 0; j < size-1; j++) {
 
             if(digits[j] >= digits[j+1]) {
-
                 digits[j] = digits[j] ^ digits[j+1]; // XOR
                 digits[j+1] = digits[j] ^ digits[j+1];
                 digits[j] = digits[j] ^ digits[j+1];

@@ -28,11 +28,11 @@ int main(void) {
 
 long int factorial(long int digit) {
 
-    assert(digit >= 0);
+	assert(digit >= 0);
 
-    if(digit <= 1) {
-        return 1;
-    }
+	if(digit <= 1) {
+		return 1;
+	}
 
 	return (digit > 1) ? digit * factorial(digit - 1) : digit;
 }
