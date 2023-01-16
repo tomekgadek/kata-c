@@ -59,7 +59,10 @@ int main(void) {
     int *digits = new(lottery_digits);
 
     int *result = lottery(lottery_digits, all_lottery_digits, digits);
-    show_result(result, lottery_digits);
+
+    if(result != NULL) {
+        show_result(result, lottery_digits);
+    }
 
     delete(digits);
     
