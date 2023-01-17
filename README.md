@@ -33,7 +33,8 @@ Matematyka
 ----------
 
 1. NWD,
-2. NWW.
+2. NWW,
+3. [Wyszukiwanie maksimum ze zbioru liczb całkowitych](/math/max.c).
 
 Pozostałe
 ---------
