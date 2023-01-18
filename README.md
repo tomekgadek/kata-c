@@ -34,7 +34,8 @@ Matematyka
 
 1. NWD,
 2. NWW,
-3. [Wyszukiwanie maksimum ze zbioru liczb całkowitych](/math/max.c).
+3. [Wyszukiwanie maksimum ze zbioru liczb całkowitych](/math/max.c),
+4. [Wyszukiwanie minimum ze zbioru liczb całkowitych](/math/min.c).
 
 Pozostałe
 ---------
