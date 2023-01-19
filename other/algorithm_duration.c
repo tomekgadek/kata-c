@@ -1,5 +1,5 @@
 /*
-    Program, ktory weryfikuje, jak dlugo trwa algorytm.
+    Program, ktory weryfikuje czas trwania algorytmu.
 */
 
 #include <stdio.h>
@@ -14,7 +14,7 @@
 void algorithm_duration(void (*fun)());
 
 /**
- * Testowa metoda.
+ * Bezparametrowa funkcja testowa.
  */
 void test();
 
@@ -32,12 +32,12 @@ void algorithm_duration(void (*fun)()) {
 
     start = clock();
 
-	(*fun)();   // wywolanie funkcji
+    (*fun)();   // wywolanie funkcji
 
-	stop = clock();
-	duration = (double)(stop - start) / CLOCKS_PER_SEC;
+    stop = clock();
+    duration = (double)(stop - start) / CLOCKS_PER_SEC;
 
-	printf("Czas wykonywania programu %2.2lf sek.\n", duration);
+    printf("Czas wykonywania programu %2.2lf sek.\n", duration);
 }
 
 void test() {
