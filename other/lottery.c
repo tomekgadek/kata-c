@@ -1,6 +1,7 @@
 /*
     Losowanie lotto w jezyku C.
 */
+
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
