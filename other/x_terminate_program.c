@@ -6,6 +6,13 @@
 #include <stdio.h>
 #include <stdbool.h>
 
+/**
+ * Weryfikuje, czy podany znak to 'x'.
+ *
+ * @param sign znak wprowadzony przez uzytkownika.
+ *
+ * @return true - wprowadzony znak to 'x', false - wprowadzony znak to nie jest 'x'.
+ */
 bool is_terminate_program(char sign);
 
 int main(void) {
