@@ -27,7 +27,8 @@ Rekurencja
 ----------
 
 1. [Palindrom](/recursion/palindrome.c),
-2. [Silnia](/recursion/factorial.c).
+2. [Silnia](/recursion/factorial.c),
+3. [Zamiana liczby dziesiętnej na liczbę dwójkową](/recursion/conver_to_binary.c).
 
 Matematyka
 ----------
