@@ -47,4 +47,4 @@ Pozostałe
 2. [Losowanie lotto](/other/lottery.c),
 3. [Program, który weryfikuje czas trwania algorytmu](/other/algorithm_duration.c),
 4. [Jeżeli wpiszesz 'x' to koniec gry](/other/x_terminate_program.c),
-5. [Program, który weryfikuje, czy zostało wprowadzone słowo: 'daddy']('/other/daddy.c').
+5. [Program, który weryfikuje, czy zostało wprowadzone słowo: 'daddy'](/other/daddy.c).
