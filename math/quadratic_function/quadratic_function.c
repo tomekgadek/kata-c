@@ -21,7 +21,7 @@ ResultQuadraticFunctin *calculate_quadratic_function(QuadraticFunction *quadrati
     double c = quadraticFunction->c;
         
     result->delta = pow(b, 2) - (4 * a * c);
-        
+
     if(result->delta == 0) {
         double x = (-b) / (2 * a);
         result->howManyZeros = ONE;
@@ -29,9 +29,9 @@ ResultQuadraticFunctin *calculate_quadratic_function(QuadraticFunction *quadrati
         result->x2 = x;
     } else if(result->delta > 0) {
         result->howManyZeros = TWO;
-		result->x1 = (-b + sqrt(result->delta))/(2 * a);
-		result->x2 = (-b - sqrt(result->delta))/(2 * a);
-	} else {
+        result->x1 = (-b + sqrt(result->delta))/(2 * a);
+        result->x2 = (-b - sqrt(result->delta))/(2 * a);
+    } else {
         result->howManyZeros = ZERO;
     }
         
