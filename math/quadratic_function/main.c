@@ -1,5 +1,5 @@
 /*
-	Program, który wyznacza delte oraz miejsca zerowe funkcji kwadratowej.
+    Program, który wyznacza delte oraz miejsca zerowe funkcji kwadratowej.
 */
 
 #include <stdio.h>
