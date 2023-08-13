@@ -27,7 +27,6 @@ typedef struct {
     double x1;
     double x2;
     HowManyZeros howManyZeros;
-
 } ResultQuadraticFunctin;
 
 /**
