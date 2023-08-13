@@ -6,7 +6,7 @@
 #include <assert.h>
 
 /**
- * Realizuje algorytm sortowania babelkowego na liczba calkowitych
+ * Realizuje algorytm sortowania babelkowego na liczbach calkowitych
  *
  * @param *digits wskaznik do tablicy liczb calkowitych.
  * @param size rozmiar tablicy liczb calkowitych.
