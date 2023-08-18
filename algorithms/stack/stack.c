@@ -22,9 +22,9 @@ void push(struct Stack *stack, int value) {
 		return ;
 	}
 
-    newNode->data = value;
-    newNode->next = stack->top;
-    stack->top = newNode;
+	newNode->data = value;
+	newNode->next = stack->top;
+	stack->top = newNode;
 }
 
 int pop(struct Stack *stack) {
@@ -34,10 +34,10 @@ int pop(struct Stack *stack) {
 	}
 
 	int poppedValue = stack->top->data;
-    struct StackNode * node = stack->top;
-    stack->top = stack->top->next;
+	struct StackNode * node = stack->top;
+	stack->top = stack->top->next;
 
-    free(node);
+	free(node);
 
-    return poppedValue;
+	return poppedValue;
 }
