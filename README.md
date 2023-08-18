@@ -21,7 +21,7 @@ Algorytmy i struktury danych
 3. Listy liniowe:
     * Lista jednokierunkowa,
     * Lista dwukierunkowa.
-4. Drzewa:
+4. [Stos](/algorithms/stack/stack.c).
 
 Rekurencja
 ----------
