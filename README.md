@@ -50,4 +50,5 @@ Pozostałe
 5. [Program, który weryfikuje, czy zostało wprowadzone słowo: 'daddy'](/other/daddy.c),
 6. [Program, który potrafi tworzyć tablicę i zliczać wystąpienia podanego elementu](/other/tables.c),
 7. [Program, który prezentuje obsługę linii poleceń w programie](/other/command_line.c),
-8. [Program odczytujący, odwracający i wyświetlający tablicę liczb z pliku](/other/tables02.c).
+8. [Program odczytujący, odwracający i wyświetlający tablicę liczb z pliku](/other/tables02.c),
+9. [Program wyświetlający tekst 'Matrix cie wiezi...' - motyw z filmu 'Matrix'](/other/matrix_movie.c).
