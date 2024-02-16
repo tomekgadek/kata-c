@@ -43,12 +43,13 @@ Matematyka
 Pozostałe
 ---------
 
-1. [Porównywanie ciągów tekstowych](/other/string_compare.c),
-2. [Losowanie lotto](/other/lottery.c),
-3. [Program, który weryfikuje czas trwania algorytmu](/other/algorithm_duration.c),
-4. [Jeżeli wpiszesz 'x' to koniec gry](/other/x_terminate_program.c),
-5. [Program, który weryfikuje, czy zostało wprowadzone słowo: 'daddy'](/other/daddy.c),
-6. [Program, który potrafi tworzyć tablicę i zliczać wystąpienia podanego elementu](/other/tables.c),
-7. [Program, który prezentuje obsługę linii poleceń w programie](/other/command_line.c),
-8. [Program odczytujący, odwracający i wyświetlający tablicę liczb z pliku](/other/tables02.c),
-9. [Program wyświetlający tekst 'Matrix cie wiezi...' - motyw z filmu 'Matrix'](/other/matrix_movie.c).
+01. [Porównywanie ciągów tekstowych](/other/string_compare.c),
+02. [Losowanie lotto](/other/lottery.c),
+03. [Program, który weryfikuje czas trwania algorytmu](/other/algorithm_duration.c),
+04. [Jeżeli wpiszesz 'x' to koniec gry](/other/x_terminate_program.c),
+05. [Program, który weryfikuje, czy zostało wprowadzone słowo: 'daddy'](/other/daddy.c),
+06. [Program, który potrafi tworzyć tablicę i zliczać wystąpienia podanego elementu](/other/tables.c),
+07. [Program, który prezentuje obsługę linii poleceń w programie](/other/command_line.c),
+08. [Program odczytujący, odwracający i wyświetlający tablicę liczb z pliku](/other/tables02.c),
+09. [Program wyświetlający tekst 'Matrix cie wiezi...' - motyw z filmu 'Matrix'](/other/matrix_movie.c),
+10. [Program potrafi zamienić wartości pomiędzy zmiennymi bez użycia zmiennej tymczasowej](/other/swap.c).
