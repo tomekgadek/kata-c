@@ -52,4 +52,5 @@ Pozostałe
 07. [Program, który prezentuje obsługę linii poleceń w programie](/other/command_line.c),
 08. [Program odczytujący, odwracający i wyświetlający tablicę liczb z pliku](/other/tables02.c),
 09. [Program wyświetlający tekst 'Matrix cie wiezi...' - motyw z filmu 'Matrix'](/other/matrix_movie.c),
-10. [Program potrafi zamienić wartości pomiędzy zmiennymi bez użycia zmiennej tymczasowej](/other/swap.c).
+10. [Program potrafi zamienić wartości pomiędzy zmiennymi bez użycia zmiennej tymczasowej](/other/swap.c),
+11. [Odbicie lustrzane liczby całkowitej](/other/mirror.c).
