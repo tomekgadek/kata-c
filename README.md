@@ -54,3 +54,4 @@ Pozostałe
 09. [Program wyświetlający tekst 'Matrix cie wiezi...' - motyw z filmu 'Matrix'](/other/matrix_movie.c),
 10. [Program potrafi zamienić wartości pomiędzy zmiennymi bez użycia zmiennej tymczasowej](/other/swap.c),
 11. [Odbicie lustrzane liczby całkowitej](/other/mirror.c).
+
