@@ -34,7 +34,7 @@ Matematyka
 ----------
 
 1. [NWD - Największy wspólny dzielnik](/math/nwd.c),
-2. NWW,
+2. [NWW - Najmniejsza wspólna wielokrotność](/math/nww.c),
 3. [Wyszukiwanie maksimum ze zbioru liczb całkowitych](/math/max.c),
 4. [Wyszukiwanie minimum ze zbioru liczb całkowitych](/math/min.c),
 5. [Średnia arytmetyczna](/math/average.c),
