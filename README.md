@@ -38,7 +38,8 @@ Matematyka
 3. [Wyszukiwanie maksimum ze zbioru liczb całkowitych](/math/max.c),
 4. [Wyszukiwanie minimum ze zbioru liczb całkowitych](/math/min.c),
 5. [Średnia arytmetyczna](/math/average.c),
-6. [Funkcja kwadratowa](/math/quadratic_function/quadratic_function.c).
+6. [Funkcja kwadratowa](/math/quadratic_function/quadratic_function.c),
+7. [Weryfikacja, czy podana liczba to liczba pierwsza](/math/prime.c).
 
 Pozostałe
 ---------
