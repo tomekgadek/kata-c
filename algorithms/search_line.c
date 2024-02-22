@@ -12,7 +12,7 @@
  * @param size rozmiar tablicy liczb całkowitych.
  * @param search_value wartość wyszukiwanej liczby.
  *
- * @return index oznalezionej liczby, a w przeciwnym wypadku -1
+ * @return index odnalezionej liczby, w przeciwnym wypadku -1
  */
 int find_idx(int digits[], int size, int search_value);
 
