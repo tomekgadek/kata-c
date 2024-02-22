@@ -14,7 +14,7 @@ Algorytmy i struktury danych
 ----------------------------
 
 1. Wyszukiwanie:
-    * Wyszukiwanie liniowe,
+    * [Wyszukiwanie liniowe](/algorithms/search_line.c),
     * Wyszukiwanie binarne.
 2. Sortowanie:
     * [Sortowanie bąbelkowe](/algorithms/bubble_sort.c).
