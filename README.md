@@ -56,3 +56,9 @@ Pozostałe
 10. [Program potrafi zamienić wartości pomiędzy zmiennymi bez użycia zmiennej tymczasowej](/other/swap.c),
 11. [Odbicie lustrzane liczby całkowitej](/other/mirror.c).
 
+Poznaj C w 24 godziny, Tony Zhang - gotowe listingi (PL)
+--------------------------------------------------------
+
+Godzina...
+
+01. Od czego zacząć?
