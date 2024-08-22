@@ -62,3 +62,5 @@ Poznaj C w 24 godziny, Tony Zhang - gotowe listingi (PL)
 Godzina...
 
 01. Od czego zacząć?
+02. Piszemy pierwsze programy w języku C
+    + [02L01.c](./c-in-24h/02H/02L01.c)
