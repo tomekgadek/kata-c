@@ -64,3 +64,5 @@ Godzina...
 01. Od czego zacząć?
 02. Piszemy pierwsze programy w języku C
     + [02L01.c](./c-in-24h/02H/02L01.c)
+03. Podstawy programowania w C
+    + [03L02.c](./c-in-24h/03H/03L02.c)
