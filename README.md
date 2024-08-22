@@ -66,3 +66,8 @@ Godzina...
     + [02L01.c](./c-in-24h/02H/02L01.c)
 03. Podstawy programowania w C
     + [03L02.c](./c-in-24h/03H/03L02.c)
+04. Typy danych i słowa kluczowe języka C
+    + [04L01.c](./c-in-24h/04H/04L01.c)
+    + [04L02.c](./c-in-24h/04H/04L02.c)
+    + [04L03.c](./c-in-24h/04H/04L03.c)
+    + [04L04.c](./c-in-24h/04H/04L04.c)
