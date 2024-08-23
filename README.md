@@ -63,11 +63,20 @@ Godzina...
 
 01. Od czego zacząć?
 02. Piszemy pierwsze programy w języku C
-    + [02L01.c](./c-in-24h/02H/02L01.c)
+    + [02L01.c](./c-in-24h/02H/02L01.c).
 03. Podstawy programowania w C
-    + [03L02.c](./c-in-24h/03H/03L02.c)
+    + [03L02.c](./c-in-24h/03H/03L02.c).
 04. Typy danych i słowa kluczowe języka C
-    + [04L01.c](./c-in-24h/04H/04L01.c)
-    + [04L02.c](./c-in-24h/04H/04L02.c)
-    + [04L03.c](./c-in-24h/04H/04L03.c)
-    + [04L04.c](./c-in-24h/04H/04L04.c)
+    + [04L01.c](./c-in-24h/04H/04L01.c),
+    + [04L02.c](./c-in-24h/04H/04L02.c),
+    + [04L03.c](./c-in-24h/04H/04L03.c),
+    + [04L04.c](./c-in-24h/04H/04L04.c).
+05. Zapis i odczyt informacji - odługa standardowego Wejścia / Wyjścia
+    + [05L01.c](./c-in-24h/05H/05L01.c),
+    + [05L02.c](./c-in-24h/05H/05L02.c),
+    + [05L03.c](./c-in-24h/05H/05L03.c),
+    + [05L04.c](./c-in-24h/05H/05L04.c),
+    + [05L05.c](./c-in-24h/05H/05L05.c),
+    + [05L06.c](./c-in-24h/05H/05L06.c),
+    + [05L07.c](./c-in-24h/05H/05L07.c),
+    + [05L08.c](./c-in-24h/05H/05L08.c).
