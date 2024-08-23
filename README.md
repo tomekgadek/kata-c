@@ -80,3 +80,8 @@ Godzina...
     + [05L06.c](./c-in-24h/05H/05L06.c),
     + [05L07.c](./c-in-24h/05H/05L07.c),
     + [05L08.c](./c-in-24h/05H/05L08.c).
+06. Manipulowanie danymi przy pomocy operatorów
+    + [06L01.c](./c-in-24h/06H/06L01.c),
+    + [06L02.c](./c-in-24h/06H/06L02.c),
+    + [06L03.c](./c-in-24h/06H/06L03.c),
+    + [06L04.c](./c-in-24h/06H/06L04.c).
