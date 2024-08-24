@@ -93,3 +93,11 @@ Godzina...
     + [07L04b.c](./c-in-24h/07H/07L04b.c),
     + [07L04c.c](./c-in-24h/07H/07L04c.c),
     + [07L06.c](./c-in-24h/07H/07L06.c).
+08. Zastosowanie oparetorów warunkowych i więcej o operatorach C
+    + [08L01.c](./c-in-24h/08H/08L01.c),
+    + [08L02.c](./c-in-24h/08H/08L02.c),
+    + [08L03.c](./c-in-24h/08H/08L03.c),
+    + [08L04.c](./c-in-24h/08H/08L04.c),
+    + [08L05.c](./c-in-24h/08H/08L05.c),
+    + [08L06.c](./c-in-24h/08H/08L06.c),
+    + [08L07.c](./c-in-24h/08H/08L07.c).
