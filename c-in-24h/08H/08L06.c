@@ -1,4 +1,4 @@
-/* 08L06.c: Zastosoanie operandow przesuniecia */
+/* 08L06.c: Zastosoanie operatorow przesuniecia */
 
 #include <stdio.h>
 
