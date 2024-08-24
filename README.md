@@ -101,3 +101,9 @@ Godzina...
     + [08L05.c](./c-in-24h/08H/08L05.c),
     + [08L06.c](./c-in-24h/08H/08L06.c),
     + [08L07.c](./c-in-24h/08H/08L07.c).
+09. Modyfikatory danych i funkcje matematyczne
+    + [09L01.c](./c-in-24h/09H/09L01.c),
+    + [09L02.c](./c-in-24h/09H/09L02.c),
+    + [09L03.c](./c-in-24h/09H/09L03.c),
+    + [09L04.c](./c-in-24h/09H/09L04.c),
+    + [09L05.c](./c-in-24h/09H/09L05.c).
