@@ -7,7 +7,7 @@ void druk_bin(int x) {
     int n;
 
     for(n=15;n>=0;n--) {
-        (( x>> n) & 1) ? putchar('1') : putchar('0');
+        ((x >> n) & 1) ? putchar('1') : putchar('0');
     }
 }
 
