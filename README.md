@@ -107,3 +107,11 @@ Godzina...
     + [09L03.c](./c-in-24h/09H/09L03.c),
     + [09L04.c](./c-in-24h/09H/09L04.c),
     + [09L05.c](./c-in-24h/09H/09L05.c).
+10. Instrukcje sterujące przebiegiem działania programu
+    + [10L01.c](./c-in-24h/10H/10L01.c),
+    + [10L02.c](./c-in-24h/10H/10L02.c),
+    + [10L03.c](./c-in-24h/10H/10L03.c),
+    + [10L04.c](./c-in-24h/10H/10L04.c),
+    + [10L05.c](./c-in-24h/10H/10L05.c),
+    + [10L06.c](./c-in-24h/10H/10L06.c),
+    + [10L07.c](./c-in-24h/10H/10L07.c).
