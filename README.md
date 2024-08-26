@@ -120,3 +120,11 @@ Godzina...
     + [11L02.c](./c-in-24h/11H/11L02.c),
     + [11L03.c](./c-in-24h/11H/11L03.c),
     + [11L04.c](./c-in-24h/11H/11L04.c).
+12. Zapamiętanie wielu danych tego samego typu - macierze
+    + [12L01.c](./c-in-24h/12H/12L01.c),
+    + [12L02.c](./c-in-24h/12H/12L02.c),
+    + [12L03.c](./c-in-24h/12H/12L03.c),
+    + [12L04.c](./c-in-24h/12H/12L04.c),
+    + [12L05.c](./c-in-24h/12H/12L05.c),
+    + [12L06.c](./c-in-24h/12H/12L06.c),
+    + [12L07.c](./c-in-24h/12H/12L07.c).
