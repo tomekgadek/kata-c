@@ -1,4 +1,4 @@
-/* 12L07.c: Inicjowanie tablic bezwymiarowych () */
+/* 12L07.c: Inicjowanie tablic bezwymiarowych */
 
 #include <stdio.h>
 

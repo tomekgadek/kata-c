@@ -128,3 +128,9 @@ Godzina...
     + [12L05.c](./c-in-24h/12H/12L05.c),
     + [12L06.c](./c-in-24h/12H/12L06.c),
     + [12L07.c](./c-in-24h/12H/12L07.c).
+13. Manipulowanie łańcuchami znakowymi
+    + [13L01.c](./c-in-24h/13H/13L01.c),
+    + [13L02.c](./c-in-24h/13H/13L02.c),
+    + [13L03.c](./c-in-24h/13H/13L03.c),
+    + [13L04.c](./c-in-24h/13H/13L04.c),
+    + [13L05.c](./c-in-24h/13H/13L05.c).
