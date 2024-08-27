@@ -135,3 +135,7 @@ Godzina...
     + [13L03.c: Kopiowanie lancuchow](./c-in-24h/13H/13L03.c),
     + [13L04.c: Zastosowanie funkcji gets() i puts()](./c-in-24h/13H/13L04.c),
     + [13L05.c: Zastosowanie funkcji scanf()](./c-in-24h/13H/13L05.c).
+14. Klasy zmiennych - widocznosc i lokalizacja w pamieci
+    + [14L01.c: Zmienne lokalne w blokach zagniezdzonych](./c-in-24h/14H/14L01.c),
+    + [14L02.c: Porownanie zakresow program scope - kontra - block scope](./c-in-24h/14H/14L01.c),
+    + [14L03.c: Zastosowanie specyfikatora static zmiennej statycznej](./c-in-24h/14H/14L01.c).
