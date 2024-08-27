@@ -62,75 +62,76 @@ Poznaj C w 24 godziny, Tony Zhang - gotowe listingi (PL)
 Godzina...
 
 01. Od czego zacząć?
+    + [01L01.c: Wprowadzenie](./c-in-24h/01H/01L01.c)
 02. Piszemy pierwsze programy w języku C
-    + [02L01.c](./c-in-24h/02H/02L01.c).
+    + [02L01.c: Pierwszy prosty program w C](./c-in-24h/02H/02L01.c).
 03. Podstawy programowania w C
-    + [03L02.c](./c-in-24h/03H/03L02.c).
+    + [03L02.c: Obliczanie sumy i drukowanie wyniku na ekranie](./c-in-24h/03H/03L02.c).
 04. Typy danych i słowa kluczowe języka C
-    + [04L01.c](./c-in-24h/04H/04L01.c),
-    + [04L02.c](./c-in-24h/04H/04L02.c),
-    + [04L03.c](./c-in-24h/04H/04L03.c),
-    + [04L04.c](./c-in-24h/04H/04L04.c).
+    + [04L01.c: Drukowanie znakow](./c-in-24h/04H/04L01.c),
+    + [04L02.c: Zamiana wartosci numerycznej na znak](./c-in-24h/04H/04L02.c),
+    + [04L03.c: Wyprowadza numery kodu znakow ASCII](./c-in-24h/04H/04L03.c),
+    + [04L04.c: Operacje zmiennoprzecinkowe](./c-in-24h/04H/04L04.c).
 05. Zapis i odczyt informacji - odługa standardowego Wejścia / Wyjścia
-    + [05L01.c](./c-in-24h/05H/05L01.c),
-    + [05L02.c](./c-in-24h/05H/05L02.c),
-    + [05L03.c](./c-in-24h/05H/05L03.c),
-    + [05L04.c](./c-in-24h/05H/05L04.c),
-    + [05L05.c](./c-in-24h/05H/05L05.c),
-    + [05L06.c](./c-in-24h/05H/05L06.c),
-    + [05L07.c](./c-in-24h/05H/05L07.c),
-    + [05L08.c](./c-in-24h/05H/05L08.c).
+    + [05L01.c: Wczytanie znaku z wejscia poprzez wywolanie funkcji getc()](./c-in-24h/05H/05L01.c),
+    + [05L02.c: Wczytywanie znaku przez funkcje getchar()](./c-in-24h/05H/05L02.c),
+    + [05L03.c: Funkcja putc() wysyla znak na ekran](./c-in-24h/05H/05L03.c),
+    + [05L04.c: Wyswietlanie znakow za pomoca funkcji putchar()](./c-in-24h/05H/05L04.c),
+    + [05L05.c: Zamiana liczb dziesietnych na szesnastkowe](./c-in-24h/05H/05L05.c),
+    + [05L06.c: Okreslenie minimalnej szerokosci pola wyjsciowego](./c-in-24h/05H/05L06.c),
+    + [05L07.c: Wyrownywanie wyjscia](./c-in-24h/05H/05L07.c),
+    + [05L08.c: Zastosowanie specyfikatora precyzji](./c-in-24h/05H/05L08.c).
 06. Manipulowanie danymi przy pomocy operatorów
-    + [06L01.c](./c-in-24h/06H/06L01.c),
-    + [06L02.c](./c-in-24h/06H/06L02.c),
-    + [06L03.c](./c-in-24h/06H/06L03.c),
-    + [06L04.c](./c-in-24h/06H/06L04.c).
+    + [06L01.c: Arytmetyczne operatory przypisania](./c-in-24h/06H/06L01.c),
+    + [06L02.c: Operatory pre- oraz post-inkrementacji (dekrementacji)](./c-in-24h/06H/06L02.c),
+    + [06L03.c: Zastosowanie operatorow relacji - wyniki porownan](./c-in-24h/06H/06L03.c),
+    + [06L04.c: Zastosowanie operatora rzutowania typu](./c-in-24h/06H/06L04.c).
 07. Pętle programowe
-    + [07L01.c](./c-in-24h/07H/07L01.c),
-    + [07L02.c](./c-in-24h/07H/07L02.c),
-    + [07L03.c](./c-in-24h/07H/07L03.c),
-    + [07L04.c](./c-in-24h/07H/07L04.c),
-    + [07L04b.c](./c-in-24h/07H/07L04b.c),
-    + [07L04c.c](./c-in-24h/07H/07L04c.c),
-    + [07L06.c](./c-in-24h/07H/07L06.c).
+    + [07L01.c: Zastosowanie petli typu while](./c-in-24h/07H/07L01.c),
+    + [07L02.c: Zastosowanie petli do-while](./c-in-24h/07H/07L02.c),
+    + [07L03.c: Zamiana 0...15 na liczby szesnastkowe](./c-in-24h/07H/07L03.c),
+    + [07L04.c: Wiele wyrazen w naglowku petli for](./c-in-24h/07H/07L04.c),
+    + [07L04b.c: Wiele wyrazen w naglowku petli for - przyklad 2](./c-in-24h/07H/07L04b.c),
+    + [07L04c.c: Warunek przerwania pÍtli for](./c-in-24h/07H/07L04c.c),
+    + [07L06.c: Petle zagniezdzone](./c-in-24h/07H/07L06.c).
 08. Zastosowanie oparetorów warunkowych i więcej o operatorach C
-    + [08L01.c](./c-in-24h/08H/08L01.c),
-    + [08L02.c](./c-in-24h/08H/08L02.c),
-    + [08L03.c](./c-in-24h/08H/08L03.c),
-    + [08L04.c](./c-in-24h/08H/08L04.c),
-    + [08L05.c](./c-in-24h/08H/08L05.c),
-    + [08L06.c](./c-in-24h/08H/08L06.c),
-    + [08L07.c](./c-in-24h/08H/08L07.c).
+    + [08L01.c: Zastosowanie operatora sizeof](./c-in-24h/08H/08L01.c),
+    + [08L02.c: Zastosowanie operatora iloczynu logicznego AND - &&](./c-in-24h/08H/08L02.c),
+    + [08L03.c: Operatory logiczne(Suma logiczna)](./c-in-24h/08H/08L03.c),
+    + [08L04.c: Zastosowanie operatora negacji logicznej !](./c-in-24h/08H/08L04.c),
+    + [08L05.c: Zastosowanie operatorow bitowych](./c-in-24h/08H/08L05.c),
+    + [08L06.c: Zastosoanie operatorow przesuniecia](./c-in-24h/08H/08L06.c),
+    + [08L07.c: Zastosowanie operatora warunkowego ? :](./c-in-24h/08H/08L07.c).
 09. Modyfikatory danych i funkcje matematyczne
-    + [09L01.c](./c-in-24h/09H/09L01.c),
-    + [09L02.c](./c-in-24h/09H/09L02.c),
-    + [09L03.c](./c-in-24h/09H/09L03.c),
-    + [09L04.c](./c-in-24h/09H/09L04.c),
-    + [09L05.c](./c-in-24h/09H/09L05.c).
+    + [09L01.c: Modyfikatory signed i unsigned, format binarny](./c-in-24h/09H/09L01.c),
+    + [09L02.c: Zastosowanie modyfikatorow short oraz long](./c-in-24h/09H/09L02.c),
+    + [09L03.c: Uzycie specyfikatorow %hd, %ld oraz %lu](./c-in-24h/09H/09L03.c),
+    + [09L04.c: Zastosowanie funkcji: sin(); cos(); tan()](./c-in-24h/09H/09L04.c),
+    + [09L05.c: Uzycie funkcji pow() i sqrt()](./c-in-24h/09H/09L05.c).
 10. Instrukcje sterujące przebiegiem działania programu
-    + [10L01.c](./c-in-24h/10H/10L01.c),
-    + [10L02.c](./c-in-24h/10H/10L02.c),
-    + [10L03.c](./c-in-24h/10H/10L03.c),
-    + [10L04.c](./c-in-24h/10H/10L04.c),
-    + [10L05.c](./c-in-24h/10H/10L05.c),
-    + [10L06.c](./c-in-24h/10H/10L06.c),
-    + [10L07.c](./c-in-24h/10H/10L07.c).
+    + [10L01.c: Zastosowanie instrukcji if](./c-in-24h/10H/10L01.c),
+    + [10L02.c: Zastosowanie if-else](./c-in-24h/10H/10L02.c),
+    + [10L03.c: Zagniezdzone instrukcje if](./c-in-24h/10H/10L03.c),
+    + [10L04.c: Zastosowanie instrukcji switch](./c-in-24h/10H/10L04.c),
+    + [10L05.c: Zastosowanie instrukcji switch-break](./c-in-24h/10H/10L05.c),
+    + [10L06.c: Przerwanie nieskonczonej petli](./c-in-24h/10H/10L06.c),
+    + [10L07.c: Zastosowanie instrukcji continue](./c-in-24h/10H/10L07.c).
 11. Wprowadzenie do wskaźników
-    + [11L01.c](./c-in-24h/11H/11L01.c),
-    + [11L02.c](./c-in-24h/11H/11L02.c),
-    + [11L03.c](./c-in-24h/11H/11L03.c),
-    + [11L04.c](./c-in-24h/11H/11L04.c).
+    + [11L01.c: Odczytanie adresow zmiennych](./c-in-24h/11H/11L01.c),
+    + [11L02.c: Deklarowanie wskaznikow i przypisywanie im wartosci](./c-in-24h/11H/11L02.c),
+    + [11L03.c: Zmiana zawartosci zmiennej wskazywanej](./c-in-24h/11H/11L03.c),
+    + [11L04.c: Wiecej niz jeden wskaznik wskazuje na ten sam adres](./c-in-24h/11H/11L04.c).
 12. Zapamiętanie wielu danych tego samego typu - macierze
-    + [12L01.c](./c-in-24h/12H/12L01.c),
-    + [12L02.c](./c-in-24h/12H/12L02.c),
-    + [12L03.c](./c-in-24h/12H/12L03.c),
-    + [12L04.c](./c-in-24h/12H/12L04.c),
-    + [12L05.c](./c-in-24h/12H/12L05.c),
-    + [12L06.c](./c-in-24h/12H/12L06.c),
-    + [12L07.c](./c-in-24h/12H/12L07.c).
+    + [12L01.c: Inicjowanie tablicy int list_int = [10] = {1, 2, 3, 4, ...10}](./c-in-24h/12H/12L01.c),
+    + [12L02.c: Calkowita wielkosc tablicy w bajtac](./c-in-24h/12H/12L02.c),
+    + [12L03.c: Odwolanie sie do tablicy za posrednictwem wskaznika](./c-in-24h/12H/12L03.c),
+    + [12L04.c: Wydruk elementow tablicy znakowej](./c-in-24h/12H/12L04.c),
+    + [12L05.c: Stop po napotkaniu znaku \0](./c-in-24h/12H/12L05.c),
+    + [12L06.c: Wydruk tablicy dwuwymiarowej](./c-in-24h/12H/12L06.c),
+    + [12L07.c: Inicjowanie tablic bezwymiarowych](./c-in-24h/12H/12L07.c).
 13. Manipulowanie łańcuchami znakowymi
-    + [13L01.c](./c-in-24h/13H/13L01.c),
-    + [13L02.c](./c-in-24h/13H/13L02.c),
-    + [13L03.c](./c-in-24h/13H/13L03.c),
-    + [13L04.c](./c-in-24h/13H/13L04.c),
-    + [13L05.c](./c-in-24h/13H/13L05.c).
+    + [13L01.c: Inicjowanie lancuchow znakowych](./c-in-24h/13H/13L01.c),
+    + [13L02.c: Pomiar dlugosci lancuchow tekstowych](./c-in-24h/13H/13L02.c),
+    + [13L03.c: Kopiowanie lancuchow](./c-in-24h/13H/13L03.c),
+    + [13L04.c: Zastosowanie funkcji gets() i puts()](./c-in-24h/13H/13L04.c),
+    + [13L05.c: Zastosowanie funkcji scanf()](./c-in-24h/13H/13L05.c).

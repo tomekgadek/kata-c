@@ -1,4 +1,4 @@
-/* 04L01.c Drukowanie znakow */
+/* 04L01.c: Drukowanie znakow */
 
 #include <stdio.h>
 

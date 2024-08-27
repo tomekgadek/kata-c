@@ -1,4 +1,4 @@
-/* 04L03.c Wyprowadza numery kodu znakow ASCII */
+/* 04L03.c: Wyprowadza numery kodu znakow ASCII */
 
 #include <stdio.h>
 

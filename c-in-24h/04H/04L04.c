@@ -1,4 +1,4 @@
-/* 04L04.c Operacje zmiennoprzecinkowe */
+/* 04L04.c: Operacje zmiennoprzecinkowe */
 
 #include <stdio.h>
 

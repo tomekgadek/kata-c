@@ -1,4 +1,4 @@
-/* 05L02.c: Wczytywanie znaku przez funkcje getchar(); */
+/* 05L02.c: Wczytywanie znaku przez funkcje getchar() */
 
 #include <stdio.h>
 

@@ -1,4 +1,4 @@
-/* 09L02.c Zastosowanie modyfikatorow short oraz long */
+/* 09L02.c: Zastosowanie modyfikatorow short oraz long */
 
 #include <stdio.h>
 

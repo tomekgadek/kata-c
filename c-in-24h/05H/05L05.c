@@ -1,4 +1,4 @@
-/* Zamiana liczb dziesietnych na szesnastkowe */
+/* 05L05.c: Zamiana liczb dziesietnych na szesnastkowe */
 
 #include <stdio.h>
 

@@ -1,4 +1,4 @@
-/* 10L03.c: Zagnierzdzone instrukcje if */
+/* 10L03.c: Zagniezdzone instrukcje if */
 
 #include <stdio.h>
 

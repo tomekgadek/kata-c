@@ -1,4 +1,4 @@
-/* 03L02.c Obliczanie sumy i drukowanie wyniku na ekranie */
+/* 03L02.c: Obliczanie sumy i drukowanie wyniku na ekranie */
 
 #include <stdio.h>
 

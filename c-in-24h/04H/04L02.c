@@ -1,4 +1,4 @@
-/* 04L02.c Zamiana wartosci numerycznej na znak */
+/* 04L02.c: Zamiana wartosci numerycznej na znak */
 
 #include <stdio.h>
 

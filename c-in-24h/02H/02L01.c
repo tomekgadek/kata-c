@@ -1,4 +1,4 @@
-/* Komentarz: plik 02L01.c - pierwszy prosty program w C */
+/* Komentarz: plik 02L01.c - Pierwszy prosty program w C */
 
 #include <stdio.h>
 
