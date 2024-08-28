@@ -149,6 +149,6 @@ Godzina...
     + [16L03.c: Dostep do tablic przy pomocy wskaznikow](./c-in-24h/16H/16L03.c),
     + [16L04.c: Przekazywanie tablicy do funkcji](./c-in-24h/16H/16L04.c),
     + [16L05.c: Przekazywanie wskaznikow do funkcji](./c-in-24h/16H/16L05.c),
-    + [16L06.c: Przekazywanie listlic wielowymiarowych](./c-in-24h/16H/16L06.c),
+    + [16L06.c: Przekazywanie tablic wielowymiarowych](./c-in-24h/16H/16L06.c),
     + [16L07.c: Przekazywanie tablicy wskaznikow do funkcji](./c-in-24h/16H/16L07.c),
     + [16L08.c: Wskazanie funkcji](./c-in-24h/16H/16L08.c).

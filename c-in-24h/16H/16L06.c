@@ -1,4 +1,4 @@
-/* 16L06.c: Przekazywanie listlic wielowymiarowych */
+/* 16L06.c: Przekazywanie tablic wielowymiarowych */
 
 #include <stdio.h>
 
