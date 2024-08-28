@@ -135,7 +135,7 @@ Godzina...
     + [13L03.c: Kopiowanie lancuchow](./c-in-24h/13H/13L03.c),
     + [13L04.c: Zastosowanie funkcji gets() i puts()](./c-in-24h/13H/13L04.c),
     + [13L05.c: Zastosowanie funkcji scanf()](./c-in-24h/13H/13L05.c).
-14. Klasy zmiennych - widocznosc i lokalizacja w pamieci
+14. Klasy zmiennych - widoczność i lokalizacja w pamięci
     + [14L01.c: Zmienne lokalne w blokach zagniezdzonych](./c-in-24h/14H/14L01.c),
     + [14L02.c: Porownanie zakresow program scope - kontra - block scope](./c-in-24h/14H/14L02.c),
     + [14L03.c: Zastosowanie specyfikatora static zmiennej statycznej](./c-in-24h/14H/14L03.c).
@@ -143,3 +143,12 @@ Godzina...
     + [15L01.c: Deklaracja, definicja i wywolanie funkcji](./c-in-24h/15H/15L01.c),
     + [15L02.c: Funkcja bezargumentowa, nie zwraca wartosci](./c-in-24h/15H/15L02.c),
     + [15L03.c: Obsluga zmiennej liczby argumentow](./c-in-24h/15H/15L03.c).
+16. Zastosowanie wskaźników
+    + [16L01.c: Arytmetyka wskaznikow](./c-in-24h/16H/16L01.c),
+    + [16L02.c: Odejmowanie wskaznikow](./c-in-24h/16H/16L02.c),
+    + [16L03.c: Dostep do tablic przy pomocy wskaznikow](./c-in-24h/16H/16L03.c),
+    + [16L04.c: Przekazywanie tablicy do funkcji](./c-in-24h/16H/16L04.c),
+    + [16L05.c: Przekazywanie wskaznikow do funkcji](./c-in-24h/16H/16L05.c),
+    + [16L06.c: Przekazywanie listlic wielowymiarowych](./c-in-24h/16H/16L06.c),
+    + [16L07.c: Przekazywanie tablicy wskaznikow do funkcji](./c-in-24h/16H/16L07.c),
+    + [16L08.c: Wskazanie funkcji](./c-in-24h/16H/16L08.c).
