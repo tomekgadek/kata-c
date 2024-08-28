@@ -139,3 +139,7 @@ Godzina...
     + [14L01.c: Zmienne lokalne w blokach zagniezdzonych](./c-in-24h/14H/14L01.c),
     + [14L02.c: Porownanie zakresow program scope - kontra - block scope](./c-in-24h/14H/14L02.c),
     + [14L03.c: Zastosowanie specyfikatora static zmiennej statycznej](./c-in-24h/14H/14L03.c).
+15. O funkcjach w C
+    + [15L01.c: Deklaracja, definicja i wywolanie funkcji](./c-in-24h/15H/15L01.c),
+    + [15L02.c: Funkcja bezargumentowa, nie zwraca wartosci](./c-in-24h/15H/15L02.c),
+    + [15L03.c: Obsluga zmiennej liczby argumentow](./c-in-24h/15H/15L03.c).

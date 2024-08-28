@@ -10,7 +10,7 @@ int main(void) {
     do {
         printf("Wartosc numeryczna znaku %c wynosi %d\n", i, i);
         i++;
-    }while(i < 72);
+    } while(i < 72);
 
     return 0;
 }
