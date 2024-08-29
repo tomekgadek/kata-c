@@ -152,3 +152,8 @@ Godzina...
     + [16L06.c: Przekazywanie tablic wielowymiarowych](./c-in-24h/16H/16L06.c),
     + [16L07.c: Przekazywanie tablicy wskaznikow do funkcji](./c-in-24h/16H/16L07.c),
     + [16L08.c: Wskazanie funkcji](./c-in-24h/16H/16L08.c).
+17. Dynamiczne przyporządkowanie pamięci
+    + [17L01.c: Zastosowanie funkcji malloc()](./c-in-24h/17H/17L01.c),
+    + [17L02.c: Zastosowanie funkcji free()](./c-in-24h/17H/17L02.c),
+    + [17L03.c: Zastosowanie funkcji calloc()](./c-in-24h/17H/17L03.c),
+    + [17L04.c: Zastosowanie funkcji realloc()](./c-in-24h/17H/17L04.c).
