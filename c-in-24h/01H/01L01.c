@@ -18,7 +18,7 @@
     C jest jezykiem programowania "wysokiego poziomu" i jest
     jednym z najpopularniejszych uniwersalnych jezykow
     programowania komputerow na calym swiecie. Opierajac sie na
-    koncepcji C opracowan pozniej C++ i Java.
+    koncepcji C opracowano pozniej C++ i Java.
     
     Tony Zhang
     ===========================================================================
