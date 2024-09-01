@@ -157,3 +157,9 @@ Godzina...
     + [17L02.c: Zastosowanie funkcji free()](./c-in-24h/17H/17L02.c),
     + [17L03.c: Zastosowanie funkcji calloc()](./c-in-24h/17H/17L03.c),
     + [17L04.c: Zastosowanie funkcji realloc()](./c-in-24h/17H/17L04.c).
+18. Więcej o typach danych i o funkcjach
+    + [18L01.c: Definiowanie typow wyliczeniowych](./c-in-24h/18H/18L01.c),
+    + [18L02.c: Zastosowanie wyliczeniowego typu danych](./c-in-24h/18H/18L02.c),
+    + [18L03.c: Zastosowanie definiowania typu przy pomocy typedef](./c-in-24h/18H/18L03.c),
+    + [18L04.c: Rekurencja funkcji](./c-in-24h/18H/18L04.c),
+    + [18L05.c: Pobranie parametrow z wiersza polecen SysOp](./c-in-24h/18H/18L05.c).

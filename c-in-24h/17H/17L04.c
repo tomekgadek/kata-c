@@ -1,4 +1,4 @@
-/* 17L04.c: Zastosowanie funkcji realloc(); */
+/* 17L04.c: Zastosowanie funkcji realloc() */
 
 #include <stdio.h>
 #include <stdlib.h>
