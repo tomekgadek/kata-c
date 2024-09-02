@@ -163,3 +163,10 @@ Godzina...
     + [18L03.c: Zastosowanie definiowania typu przy pomocy typedef](./c-in-24h/18H/18L03.c),
     + [18L04.c: Rekurencja funkcji](./c-in-24h/18H/18L04.c),
     + [18L05.c: Pobranie parametrow z wiersza polecen SysOp](./c-in-24h/18H/18L05.c).
+19. Struktury - łączenie danych różnych typów
+    + [19L01.c: Odwolywanie sie do pol struktury](./c-in-24h/19H/19L01.c),
+    + [19L02.c: Inicjowanie pol struktury](./c-in-24h/19H/19L02.c),
+    + [19L03.c: Przekazanie struktury jako argumentu funkcji](./c-in-24h/19H/19L03.c),
+    + [19L04.c: Wskaznik do struktury](./c-in-24h/19H/19L04.c),
+    + [19L05.c: Tablica struktur](./c-in-24h/19H/19L05.c),
+    + [19L06.c: Zastosowanie zagniezdzonych struktur](./c-in-24h/19H/19L06.c).
