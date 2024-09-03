@@ -177,3 +177,8 @@ Godzina...
     + [20L04.c: Odwolanie do tej samej pamieci na rozne sposoby](./c-in-24h/20H/20L04.c),
     + [20L05.c: Zastosowanie unii](./c-in-24h/20H/20L05.c),
     + [20L06.c: Definiowanie pol bitowych](./c-in-24h/20H/20L06.c).
+21. Zapis do- i odczyt z- plików dyskowych
+    + [21L01.c: Otwieranie i zamykanie pliku](./c-in-24h/21H/21L01.c),
+    + [21L02.c: Odczyt i zapis z/do pliku znak-po-znaku](./c-in-24h/21H/21L02.c),
+    + [21L03.c: Wczytywanie i zapis wiersz po wierszu](./c-in-24h/21H/21L03.c),
+    + [21L04.c: Zapis i odczyt bloku znakow](./c-in-24h/21H/21L04.c).
