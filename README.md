@@ -170,3 +170,10 @@ Godzina...
     + [19L04.c: Wskaznik do struktury](./c-in-24h/19H/19L04.c),
     + [19L05.c: Tablica struktur](./c-in-24h/19H/19L05.c),
     + [19L06.c: Zastosowanie zagniezdzonych struktur](./c-in-24h/19H/19L06.c).
+20. Zrozumienie istoty pojęcia unii w języku C
+    + [20L01.c: Odwolywanie sie do unii](./c-in-24h/20H/20L01.c),
+    + [20L02.c: Nakladanie sie elementow unii](./c-in-24h/20H/20L02.c),
+    + [20L03.c: Pomiar rozmiaru unii i struktury](./c-in-24h/20H/20L03.c),
+    + [20L04.c: Odwolanie do tej samej pamieci na rozne sposoby](./c-in-24h/20H/20L04.c),
+    + [20L05.c: Zastosowanie unii](./c-in-24h/20H/20L05.c),
+    + [20L06.c: Definiowanie pol bitowych](./c-in-24h/20H/20L06.c).
