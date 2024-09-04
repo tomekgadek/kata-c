@@ -182,3 +182,8 @@ Godzina...
     + [21L02.c: Odczyt i zapis z/do pliku znak-po-znaku](./c-in-24h/21H/21L02.c),
     + [21L03.c: Wczytywanie i zapis wiersz po wierszu](./c-in-24h/21H/21L03.c),
     + [21L04.c: Zapis i odczyt bloku znakow](./c-in-24h/21H/21L04.c).
+22. Zastosowanie specjalnych funkcji do obsługi odczytu i zapisu plików
+    + [22L01.c: Swobodny dostep do pliku](./c-in-24h/22H/22L01.c),
+    + [22L02.c: Odczyt i zapis danych binarnych](./c-in-24h/22H/22L02.c),
+    + [22L03.c: Zastosowanie funkcji fscanf() i fprintf()](./c-in-24h/22H/22L03.c),
+    + [22L04.c: Skierowanie standardowego strumienia stdout do pliku dyskowego](./c-in-24h/22H/22L04.c).
