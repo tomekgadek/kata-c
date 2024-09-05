@@ -187,3 +187,8 @@ Godzina...
     + [22L02.c: Odczyt i zapis danych binarnych](./c-in-24h/22H/22L02.c),
     + [22L03.c: Zastosowanie funkcji fscanf() i fprintf()](./c-in-24h/22H/22L03.c),
     + [22L04.c: Skierowanie standardowego strumienia stdout do pliku dyskowego](./c-in-24h/22H/22L04.c).
+23. Kompilacja programów: Preprocesor C
+    + [23L01.c: Uzycie dyrektywy #define](./c-in-24h/23H/23L01.c),
+    + [23L02.c: Zastosowanie #ifdef, #ifndef, #endif](./c-in-24h/23H/23L02.c),
+    + [23L03.c: Zastosowanie dyrektyw #if #elif #else](./c-in-24h/23H/23L03.c),
+    + [23L04.c: Zagniezdzenie #if](./c-in-24h/23H/23L04.c).
