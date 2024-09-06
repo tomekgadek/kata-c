@@ -19,7 +19,7 @@ Algorytmy i struktury danych
 2. Sortowanie:
     * [Sortowanie bąbelkowe](/algorithms/bubble_sort.c).
 3. Listy liniowe:
-    * Lista jednokierunkowa,
+    * [Lista jednokierunkowa](/c-in-24h/24H/lnk_list.c),
     * Lista dwukierunkowa.
 4. [Stos](/algorithms/stack/stack.c).
 
@@ -192,3 +192,7 @@ Godzina...
     + [23L02.c: Zastosowanie #ifdef, #ifndef, #endif](./c-in-24h/23H/23L02.c),
     + [23L03.c: Zastosowanie dyrektyw #if #elif #else](./c-in-24h/23H/23L03.c),
     + [23L04.c: Zagniezdzenie #if](./c-in-24h/23H/23L04.c).
+24. Co dalej?
+    + [24L01.c: Interfejs dla listy ciaglej](./c-in-24h/24H/24L01.c),
+    + [lnk_list.c: Funkcje manipulujace lista](./c-in-24h/24H/lnk_list.c),
+    + [lnk_list.h: Plik naglowkowy dla listy](./c-in-24h/24H/lnk_list.h).
