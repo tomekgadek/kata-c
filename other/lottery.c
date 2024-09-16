@@ -122,7 +122,7 @@ int *new(int size) {
     int *object = calloc(size, sizeof(int));
     if(object == NULL) {
         printf("Blad! Wystapil problem z alokacja pamieci! \n");
-        exit(0);
+        exit(1);
     }
 
     return object;

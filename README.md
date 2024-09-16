@@ -59,6 +59,7 @@ Pozostałe
 
 Poznaj C w 24 godziny, Tony Zhang - gotowe listingi (PL)
 --------------------------------------------------------
+![C in 24h](./c-in-24h/book/c-24h-book.png)
 
 Godzina...
 
