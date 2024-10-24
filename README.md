@@ -57,6 +57,13 @@ Pozostałe
 11. [Odbicie lustrzane liczby całkowitej](/other/mirror.c),
 12. [Program, który wyprowadza na wyjście aktualną datę i czas](/other/current_time.c).
 
+SPOJ
+---------
+Rozwiązania zadań umieszczonych w serwisie [SPOJ](https://pl.spoj.com/).
+
+01. [Tagi HTML](./spoj/html-tags.c).
+
+
 Poznaj C w 24 godziny, Tony Zhang - gotowe listingi (PL)
 --------------------------------------------------------
 ![C in 24h](./c-in-24h/book/c-24h-book.png)
