@@ -32,7 +32,7 @@ int main(void) {
 }
 
 int charToInt(char sign) {
-	return (sign - '0');
+    return (sign - '0');
 }
 
 int strlen(const char *wsk) {
@@ -62,5 +62,5 @@ int divide5(const char *wsk) {
         return 1;
     }
 
-	return 0;
+    return 0;
 }
