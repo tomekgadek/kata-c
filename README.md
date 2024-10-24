@@ -62,7 +62,8 @@ SPOJ
 Rozwiązania zadań z serwisu [spoj](https://pl.spoj.com/).
 
 01. [Tagi HTML](./spoj/html-tags.c),
-02. [Kabalistyczny zapis daty](./spoj/kabbalistic-calendar.c).
+02. [Kabalistyczny zapis daty](./spoj/kabbalistic-calendar.c),
+03. [Szyfr Cezara](./spoj/caesar-cipher.c).
 
 
 Poznaj C w 24 godziny, Tony Zhang - gotowe listingi (PL)
