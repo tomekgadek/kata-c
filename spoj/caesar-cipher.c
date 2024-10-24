@@ -1,5 +1,5 @@
 /*
-    caesar-sipher.c: JSZYCER - Szyfr Cezara
+    caesar-cipher.c: JSZYCER - Szyfr Cezara
 
     Zadanie: https://pl.spoj.com/problems/JSZYCER/
 
