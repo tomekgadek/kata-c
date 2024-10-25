@@ -1,0 +1,6 @@
+5
+Ala 50 173
+Beata 70 190
+Boleslaw 100 180
+Wincent 85 186
+Hiacynta 62 164

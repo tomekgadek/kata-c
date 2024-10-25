@@ -3,7 +3,7 @@
 
     Zadanie: https://pl.spoj.com/problems/JHTMLLET/
 
-    Kompilacja oraz uruchomienie programu: gcc html-tags.c && ./a.out < ./tests/html-tags-test.txt
+    Kompilacja oraz uruchomienie programu: gcc html-tags.c && ./a.out < ./tests/html-tags-tests.txt
 */
 #include <stdio.h>
 
@@ -14,6 +14,7 @@
 #define Z 'z'
 
 int main(void) {
+
     char sign = '_';
 
     while((sign = getc(stdin)) != EOF) {

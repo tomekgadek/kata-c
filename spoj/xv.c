@@ -13,17 +13,23 @@
 #define MSG_Y  "TAK"
 #define MSG_N  "NIE"
 
-int charToInt(char);
-int strlen(const char *);
-int divide3(const char *);
-int divide5(const char *);
+int char_to_int(char);
+int str_size(const char *);
+int divide_3(const char *);
+int divide_5(const char *);
 
 int main(void) {
 
     char text[LINE+1];
 
-    while(gets(text) != NULL && text[0] != '0') {
-        divide3(text) == TRUE && divide5(text) == TRUE? puts(MSG_Y) : puts(MSG_N);
+    int text_size = 0;
+    while(fgets(text, sizeof(text), stdin) != NULL && text[0] != '0') {
+        text_size = str_size(text);
+        if (text_size > 0 && text[text_size-1] == '\n') {
+            text[text_size-1] = '\0';
+        }
+
+        divide_3(text) == TRUE && divide_5(text) == TRUE? puts(MSG_Y) : puts(MSG_N);
     }
 
     putchar('\n');
@@ -31,11 +37,11 @@ int main(void) {
     return 0;
 }
 
-int charToInt(char sign) {
+int char_to_int(char sign) {
     return (sign - '0');
 }
 
-int strlen(const char *wsk) {
+int str_size(const char *wsk) {
     int counter = 0;
 
     while(*wsk++) {
@@ -45,18 +51,18 @@ int strlen(const char *wsk) {
     return counter;
 }
 
-int divide3(const char *wsk) {
+int divide_3(const char *wsk) {
     int sum = 0;
 
     while(*wsk) {
-        sum += charToInt(*wsk++);
+        sum += char_to_int(*wsk++);
     }
 
     return sum % 3 == 0;
 }
 
-int divide5(const char *wsk) {
-    int size = strlen(wsk);
+int divide_5(const char *wsk) {
+    int size = str_size(wsk);
 
     if(wsk[size-1] == '0' || wsk[size-1] == '5') {
         return 1;
