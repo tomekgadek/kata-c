@@ -65,7 +65,8 @@ Rozwiązania zadań z serwisu [spoj](https://pl.spoj.com/).
 02. [Kabalistyczny zapis daty](./spoj/kabbalistic-calendar.c),
 03. [Szyfr Cezara](./spoj/caesar-cipher.c),
 04. [XV](./spoj/xv.c),
-05. [Bmi](./spoj/bmi.c).
+05. [Bmi](./spoj/bmi.c),
+06. [Pesel](./spoj/pesel.c).
 
 Poznaj C w 24 godziny, Tony Zhang - gotowe listingi (PL)
 --------------------------------------------------------
