@@ -36,7 +36,7 @@ int main(void) {
         free(matrix[i]);
     }
 
-	free(matrix);
+    free(matrix);
 
-	return 0;
+    return 0;
 }
