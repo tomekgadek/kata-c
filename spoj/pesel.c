@@ -22,7 +22,7 @@ int main(void) {
 
     scanf("%d", &data_size);
 
-    for(int check_digit = 0; data_size> 0; data_size--) {
+    for(int check_digit = 0; data_size > 0; data_size--) {
 
         scanf("%s", pesel);
 
