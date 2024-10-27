@@ -67,7 +67,8 @@ Rozwiązania zadań z serwisu [spoj](https://pl.spoj.com/).
 04. [XV](./spoj/xv.c),
 05. [Bmi](./spoj/bmi.c),
 06. [Pesel](./spoj/pesel.c),
-07. [Transponowanie macierzy](./spoj/matrix-transposition.c).
+07. [Transponowanie macierzy](./spoj/matrix-transposition.c),
+08. [Dodawanie ułamków](./spoj/add-fractions.c).
 
 Poznaj C w 24 godziny, Tony Zhang - gotowe listingi (PL)
 --------------------------------------------------------
