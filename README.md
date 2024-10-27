@@ -68,7 +68,8 @@ Rozwiązania zadań z serwisu [spoj](https://pl.spoj.com/).
 05. [Bmi](./spoj/bmi.c),
 06. [Pesel](./spoj/pesel.c),
 07. [Transponowanie macierzy](./spoj/matrix-transposition.c),
-08. [Dodawanie ułamków](./spoj/add-fractions.c).
+08. [Dodawanie ułamków](./spoj/add-fractions.c),
+09. [Problem Collatza](./spoj/the-collatz-problem.c).
 
 Poznaj C w 24 godziny, Tony Zhang - gotowe listingi (PL)
 --------------------------------------------------------
