@@ -10,7 +10,7 @@
 typedef unsigned long long int fraction_type;
 
 fraction_type GCD(fraction_type, fraction_type); // NWD
-fraction_type LCM(fraction_type, fraction_type); // LCM
+fraction_type LCM(fraction_type, fraction_type); // NWW
 
 int main(void) {
     fraction_type numerator1, numerator2, denominator1, denominator2;
