@@ -5,7 +5,6 @@
 
     Kompilacja oraz uruchomienie programu: gcc the-collatz-problem.c && ./a.out < ./tests/the-collatz-problem-tests.txt
 */
-
 #include <stdio.h>
 
 int main(void) {
