@@ -72,7 +72,8 @@ Rozwiązania zadań z serwisu [spoj](https://pl.spoj.com/).
 09. [Problem Collatza](./spoj/the-collatz-problem.c),
 10. [Literki](./spoj/letters.c),
 11. [Trójkąty](./spoj/triangles.c),
-12. [Sklejanie łańcuchów](./spoj/string-merge.c).
+12. [Sklejanie łańcuchów](./spoj/string-merge.c),
+13. [Telefony](./spoj/phones.c).
 
 Poznaj C w 24 godziny, Tony Zhang - gotowe listingi (PL)
 --------------------------------------------------------
