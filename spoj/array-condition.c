@@ -54,7 +54,7 @@ void print_less_digits(long int cmp_value, long int digits[], long int size) {
 }
 
 void print_greater_digits(long int cmp_value, long int digits[], long int size) {
-    
+
     for(int i = 0; i < size; i++) {
         if(digits[i] > cmp_value) {
             printf("%ld \n", digits[i]);
