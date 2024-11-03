@@ -73,7 +73,8 @@ Rozwiązania zadań z serwisu [spoj](https://pl.spoj.com/).
 10. [Literki](./spoj/letters.c),
 11. [Trójkąty](./spoj/triangles.c),
 12. [Sklejanie łańcuchów](./spoj/string-merge.c),
-13. [Telefony](./spoj/phones.c).
+13. [Telefony](./spoj/phones.c),
+14. [Warunek w tablicy](./spoj/array-condition.c).
 
 Poznaj C w 24 godziny, Tony Zhang - gotowe listingi (PL)
 --------------------------------------------------------
