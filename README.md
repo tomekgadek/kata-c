@@ -75,7 +75,8 @@ Rozwiązania zadań z serwisu [spoj](https://pl.spoj.com/).
 12. [Sklejanie łańcuchów](./spoj/string-merge.c),
 13. [Telefony](./spoj/phones.c),
 14. [Warunek w tablicy](./spoj/array-condition.c),
-15. [Zliczanie wystąpień](./spoj/counting-occurrences.c).
+15. [Zliczanie wystąpień](./spoj/counting-occurrences.c),
+16. [Flamaster](./spoj/marker.c).
 
 Poznaj C w 24 godziny, Tony Zhang - gotowe listingi (PL)
 --------------------------------------------------------
