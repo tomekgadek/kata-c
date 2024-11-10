@@ -77,7 +77,8 @@ Rozwiązania zadań z serwisu [spoj](https://pl.spoj.com/).
 14. [Warunek w tablicy](./spoj/array-condition.c),
 15. [Zliczanie wystąpień](./spoj/counting-occurrences.c),
 16. [Flamaster](./spoj/marker.c),
-17. [Reszta z dzielenia](./spoj/rest.c).
+17. [Reszta z dzielenia](./spoj/rest.c),
+18. [Współliniowość punktów](./spoj/points-collinearity.c).
 
 Poznaj C w 24 godziny, Tony Zhang - gotowe listingi (PL)
 --------------------------------------------------------
