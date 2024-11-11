@@ -10,7 +10,7 @@
 #define YES "TAK"
 #define NO  "NIE"
 
-struct Point {
+struct point {
 
     int x;
     int y;
