@@ -80,7 +80,8 @@ Rozwiązania zadań ([spoj](https://pl.spoj.com/)).
 17. [Reszta z dzielenia](./spoj/rest.c),
 18. [Współliniowość punktów](./spoj/points-collinearity.c),
 19. [Średnia arytmetyczna](./spoj/avg.c),
-20. [Szyfr Gronsfelda](./spoj/gronsfeld-cipher.c).
+20. [Szyfr Gronsfelda](./spoj/gronsfeld-cipher.c),
+21. [Porównywanie dużych liczb](./spoj/large-digits.c).
 
 Poznaj C w 24 godziny, Tony Zhang - gotowe listingi (PL)
 --------------------------------------------------------
