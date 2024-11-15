@@ -27,7 +27,7 @@ void display_stars_in_line(int, int, int);
 int main(void) {
 
     hist_t histogram = { {}, DATA_SIZE, DIAGRAM_WIDTH, 0 };
-	
+
     for(int i = 0; i < histogram.data_size; i++) {
         histogram.data[i] = 0;
     }
@@ -46,7 +46,7 @@ hist_t * prepare_hist(hist_t * hist_ptr) {
 
     int shift = 10; // dopasowanie histgramu do tablicy: tablica <0, 20>, histogram <-10, 10>.
 
-	int digit = 0;
+    int digit = 0;
     while(fscanf(stdin, "%d", &digit) != EOF) {
         hist_ptr->data[digit + shift]++;
     }
@@ -68,12 +68,12 @@ int get_max(int data[], int size) {
 }
 
 void show_hist(hist_t * hist_ptr) {
-	
+
     for(int i = 0, j = -10; i < hist_ptr->data_size; i++, j++) {
 
-		int quantity_stars = (int)round((double)hist_ptr->width * hist_ptr->data[i] / (double)hist_ptr->max_value);
-		display_stars_in_line(j, hist_ptr->width, quantity_stars);
-	}
+        int quantity_stars = (int)round((double)hist_ptr->width * hist_ptr->data[i] / (double)hist_ptr->max_value);
+        display_stars_in_line(j, hist_ptr->width, quantity_stars);
+    }
 }
 
 void display_stars_in_line(int line_number, int width, int quantity_stars) {
@@ -89,5 +89,5 @@ void display_stars_in_line(int line_number, int width, int quantity_stars) {
         }
     }
 
-	printf("|\n");
+    printf("|\n");
 }
