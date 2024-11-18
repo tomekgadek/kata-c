@@ -2,9 +2,9 @@
     z01.c: Przeliczanie cali na cm
 
     1. Zostales walasnie zatrudniony przez firme MacroMuscle, Inc. (oprogramowanie dla kulturystow).
-    Zamierz ona wejsc na rynek europejski i potrzebuje programu przeliczajacego cale na centymetry
+    Zamierza ona wejsc na rynek europejski i potrzebuje programu przeliczajacego cale na centymetry
     (1 cal = 2.54 cm). Program powinien pobierac liczbe cali podana przez uzytkownika. Twoim zadaniem
-    jest okreslenie celow i wykonanie peojektu programu (kroki 1 i 2 procesu programowania).
+    jest okreslenie celow i wykonanie projektu programu (kroki 1 i 2 procesu programowania).
 */
 
 /*
