@@ -226,3 +226,24 @@ Godzina...
     + [24L01.c: Interfejs dla listy ciaglej](./c-in-24h/24H/24L01.c),
     + [lnk_list.c: Funkcje manipulujace lista](./c-in-24h/24H/lnk_list.c),
     + [lnk_list.h: Plik naglowkowy dla listy](./c-in-24h/24H/lnk_list.h).
+
+Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
+--------------------------------------------------------
+![S.Prata clang](./s-prata/book/s-prata-c-lang.jpg)
+
+**Notatki:**
+
+7 etapów programowania:
+
+1. Określenie celów programu
+2. Projektowanie programu
+3. Pisanie kodu
+4. Kompilacja
+5. Uruchomienie programu
+6. Testowanie i usuwanie błędów
+7. "Pielęgnowanie" i modyfikacja programu
+
+**Rozdział...**
+
+01. Zaczynamy
+    + [z01.c: Przeliczanie cali na cm](./s-prata/r01/z01.c).
