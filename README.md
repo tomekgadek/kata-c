@@ -252,4 +252,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r02z02.c: Program wypisujący na ekranie imię oraz adres](./s-prata/r02/r02z02.c),
     + [r02z03.c: Program przeliczający wiek użytkownika na dni](./s-prata/r02/r02z03.c),
     + [r02z04.c: Proste wywołania funkcji](./s-prata/r02/r02z04.c),
-    + [r02z05.c: Operacje na liczbie całkowitej](./s-prata/r02/r02z05.c).
+    + [r02z05.c: Operacje na liczbie całkowitej](./s-prata/r02/r02z05.c),
+    + [r02z06.c: Proste wywołania funkcji smile()](./s-prata/r02/r02z06.c).
