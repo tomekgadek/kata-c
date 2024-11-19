@@ -250,4 +250,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
 02. Wstęp do C
     + [r02z01.c: Program wypisujący na ekranie imię i nazwisko](./s-prata/r02/r02z01.c),
     + [r02z02.c: Program wypisujący na ekranie imię oraz adres](./s-prata/r02/r02z02.c),
-    + [r02z03.c: Program przeliczający wiek użytkownika na dni](./s-prata/r02/r02z03.c).
+    + [r02z03.c: Program przeliczający wiek użytkownika na dni](./s-prata/r02/r02z03.c),
+    + [r02z04.c: Proste wywołania funkcji](./s-prata/r02/r02z04.c).
