@@ -1,5 +1,5 @@
 /*
-    r02z01.c: Program wypisujący na ekranie imię i nazwisko.
+    r02z01.c: Program wypisujący na ekranie imię i nazwisko
 
     1. Napisz program, wypisujący na ekranie Twoje imię i nazwisko: w jednym wierszu przy pomocy 
     jednego wywołania funkcji printf(), w dwóch osobnych wierszach przy pomocy jednego wywołania printf() 
