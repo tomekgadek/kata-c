@@ -20,7 +20,7 @@ void alarm2(void);
 int main(void) {
 
     alarm1();
-    printf("Panie Janie!\n");
+    printf("Panie Janie! \n");
     alarm2();
 
     return 0;
@@ -28,10 +28,10 @@ int main(void) {
 
 void alarm1(void) {
 
-    printf("Panie Janie!\n");
+    printf("Panie Janie! \n");
 }
 
 void alarm2(void) {
 
-    printf("Rano wstan!\n");
+    printf("Rano wstan! \n");
 }

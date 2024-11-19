@@ -8,7 +8,7 @@
 
 int main(void) {
 
-    printf("Imie: Tomasz\nAdres: Nibylandia 17\n");
+    printf("Imie: Tomasz \nAdres: Nibylandia 17 \n");
 
     return 0;
 }
