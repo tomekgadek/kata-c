@@ -255,4 +255,6 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r02z05.c: Operacje na liczbie całkowitej](./s-prata/r02/r02z05.c),
     + [r02z06.c: Proste wywołania funkcji smile()](./s-prata/r02/r02z06.c).
 03. Dane w C
-    + [r03z01.c: Eksperyment przepełnienia](./s-prata/r03/r03z01.c).
+    + [r03z01.c: Eksperyment przepełnienia](./s-prata/r03/r03z01.c),
+    + [r03z02.c: Kod ASCII](./s-prata/r03/r03z02.c).
+    

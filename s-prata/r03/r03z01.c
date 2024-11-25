@@ -11,9 +11,6 @@
 
 int main(void) {
 
-
-    float wynik1, wynik2;
-
     int digit = 2147483647;
     printf("2147483647 + 1 = %d \n", digit + 1); // int, przepełnienie
 
