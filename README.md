@@ -257,4 +257,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
 03. Dane w C
     + [r03z01.c: Eksperyment przepełnienia](./s-prata/r03/r03z01.c),
     + [r03z02.c: Kod ASCII](./s-prata/r03/r03z02.c),
-    + [r03z03.c: Sygnał](./s-prata/r03/r03z03.c).
+    + [r03z03.c: Sygnał](./s-prata/r03/r03z03.c),
+    + [r03z04.c: Notacja wykładnicza](./s-prata/r03/r03z04.c).
