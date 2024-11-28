@@ -259,4 +259,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r03z02.c: Kod ASCII](./s-prata/r03/r03z02.c),
     + [r03z03.c: Sygnał](./s-prata/r03/r03z03.c),
     + [r03z04.c: Notacja wykładnicza](./s-prata/r03/r03z04.c),
-    + [r03z05.c: Przelicz wiek użytkownika na sekundy](./s-prata/r03/r03z05.c).
+    + [r03z05.c: Przelicz wiek użytkownika na sekundy](./s-prata/r03/r03z05.c),
+    + [r03z06.c: Oblicz liczbę cząsteczek wody w podanej objętości](./s-prata/r03/r03z06.c).
