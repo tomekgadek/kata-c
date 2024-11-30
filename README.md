@@ -263,4 +263,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r03z06.c: Oblicz liczbę cząsteczek wody w podanej objętości](./s-prata/r03/r03z06.c).
 04. Łańcuchy znakowe i formatowane wejście / wyjście
     + [r04z01.c: Wypisz imię i nazwisko](./s-prata/r04/r04z01.c),
-    + [r04z02.c: Formatowanie tekstu](./s-prata/r04/r04z02.c).
+    + [r04z02.c: Formatowanie tekstu](./s-prata/r04/r04z02.c),
+    + [r04z03.c: Formatowanie liczb zmiennoprzecinkowych](./s-prata/r04/r04z03.c).
