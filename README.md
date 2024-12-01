@@ -265,4 +265,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r04z01.c: Wypisz imię i nazwisko](./s-prata/r04/r04z01.c),
     + [r04z02.c: Formatowanie tekstu](./s-prata/r04/r04z02.c),
     + [r04z03.c: Formatowanie liczb zmiennoprzecinkowych](./s-prata/r04/r04z03.c),
-    + [r04z04.c: Wzrost użytkownika](./s-prata/r04/r04z04.c).
+    + [r04z04.c: Wzrost użytkownika](./s-prata/r04/r04z04.c),
+    + [r04z05.c: Formatowanie tekstu i wykorzystanie funkcji strlen()](./s-prata/r04/r04z05.c).
