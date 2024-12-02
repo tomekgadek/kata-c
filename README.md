@@ -267,3 +267,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r04z03.c: Formatowanie liczb zmiennoprzecinkowych](./s-prata/r04/r04z03.c),
     + [r04z04.c: Wzrost użytkownika](./s-prata/r04/r04z04.c),
     + [r04z05.c: Formatowanie tekstu i wykorzystanie funkcji strlen()](./s-prata/r04/r04z05.c).
+05. Operatory, wyrażenia i instrukcje
+    + [r05z01.c: Przelicz minuty na godziny i minuty](./s-prata/r05/r05z01.c).
