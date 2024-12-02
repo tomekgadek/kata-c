@@ -270,4 +270,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
 05. Operatory, wyrażenia i instrukcje
     + [r05z01.c: Przelicz minuty na godziny i minuty](./s-prata/r05/r05z01.c),
     + [r05z02.c: Wyświetl liczby całkowite](./s-prata/r05/r05z02.c),
-    + [r05z03.c: Przelicz dni na tygodnie i dni](./s-prata/r05/r05z03.c).
+    + [r05z03.c: Przelicz dni na tygodnie i dni](./s-prata/r05/r05z03.c),
+    + [r05z04.c: Ile masz gotówki w portfelu?](./s-prata/r05/r05z04.c).
