@@ -6,9 +6,9 @@
     (Jeśli zatem wpisano liczbę 5, program wyświetla liczby od 5 do 15.)
 */
 
-const int SHIFT = 10;
-
 #include <stdio.h>
+
+const int SHIFT = 10;
 
 int main(void) {
 

@@ -274,3 +274,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r05z04.c: Ile masz gotówki w portfelu?](./s-prata/r05/r05z04.c),
     + [r05z05.c: Suma kwadratów kolejnych liczb naturalnych](./s-prata/r05/r05z05.c),
     + [r05z06.c: Liczba zmiennoprzecinkowa podniesiona do 3 potęgi](./s-prata/r05/r05z06.c).
+06. Instrukcje sterujące C: Pętle
+    + [r06z01.c: Tabica zawierająca 26 małych liter](./s-prata/r06/r05z01.c).
