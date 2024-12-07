@@ -4,7 +4,7 @@
     6. Napisz program, który wczytuje pojedyncze słowo do tablicy 
     znakowej, a następnie wyświetla je wspak.
     Wskazówka: Użyj funkcji 'strlen()' do obliczenia indeksu ostatniego 
-    znaku w tablicy (patrz Rozdzial 4 "Łańcuch znakowe i formatowane
+    znaku w tablicy (patrz Rozdzial 4 "Łańcuchy znakowe i formatowane
     wejście / wyjście").
 */
 
