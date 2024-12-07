@@ -279,4 +279,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r06z02.c: Zbuduj trójkąt z dolarów](./s-prata/r06/r06z02.c),
     + [r06z03.c: Zbuduj trójkąt zawierający znaki F..A](./s-prata/r06/r06z03.c),
     + [r06z04.c: Zbuduj piramidę znakową](./s-prata/r06/r06z04.c),
-    + [r06z05.c: Wyświetlanie tabeli](./s-prata/r06/r06z05.c).
+    + [r06z05.c: Wyświetlanie tabeli](./s-prata/r06/r06z05.c),
+    + [r06z06.c: Wspak](./s-prata/r06/r06z06.c).
