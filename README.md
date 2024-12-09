@@ -282,4 +282,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r06z05.c: Wyświetlanie tabeli](./s-prata/r06/r06z05.c),
     + [r06z06.c: Wspak](./s-prata/r06/r06z06.c),
     + [r06z07.c: Operacje na 2 liczbach zmiennoprzecinkowych](./s-prata/r06/r06z07.c),
-    + [r06z08.c: Operacje na 2 liczbach zmiennoprzecinkowych + funkcja](./s-prata/r06/r06z08.c).
+    + [r06z08.c: Operacje na 2 liczbach zmiennoprzecinkowych + funkcja](./s-prata/r06/r06z08.c),
+    + [r06z09.c: Wyświetl liczby całkowite w odwrotnej kolejności](./s-prata/r06/r06z09.c).
