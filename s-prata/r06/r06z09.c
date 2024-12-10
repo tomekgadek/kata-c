@@ -7,15 +7,15 @@
 
 #include <stdio.h>
 
-#define DIGITS_SIZE 8
+#define ARRAY_SIZE 8
 
 int main(void) {
 
-    int digits[DIGITS_SIZE];
+    int digits[ARRAY_SIZE];
 
     printf("Podaj liczby calkowite: \n");
 
-    for(int i = 0; i < DIGITS_SIZE; i++) {
+    for(int i = 0; i < ARRAY_SIZE; i++) {
 
         printf("digit(%d) = ", i);
         scanf("%d", &digits[i]);
@@ -23,7 +23,7 @@ int main(void) {
 
     printf("Liczby w odwrotnej kolejnosci: \n");
 
-    for(int i = DIGITS_SIZE - 1; i >= 0; --i) {
+    for(int i = ARRAY_SIZE - 1; i >= 0; --i) {
         printf("%d \n", digits[i]);
     }
 
