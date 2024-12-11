@@ -285,4 +285,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r06z08.c: Operacje na 2 liczbach zmiennoprzecinkowych + funkcja](./s-prata/r06/r06z08.c),
     + [r06z09.c: Wyświetl liczby całkowite w odwrotnej kolejności](./s-prata/r06/r06z09.c),
     + [r06z10.c: Sumy ciągów](./s-prata/r06/r06z10.c),
-    + [r06z11.c: Pierwsze osiem potęg liczby 2](./s-prata/r06/r06z11.c).
+    + [r06z11.c: Pierwsze osiem potęg liczby 2](./s-prata/r06/r06z11.c),
+    + [r06z12.c: Odczytaj wiersz danych i wyświetl go wspak](./s-prata/r06/r06z12.c).
