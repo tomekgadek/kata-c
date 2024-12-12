@@ -289,3 +289,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r06z12.c: Odczytaj wiersz danych i wyświetl go wspak](./s-prata/r06/r06z12.c),
     + [r06z13.c: Procent prosty i składany](./s-prata/r06/r06z13.c),
     + [r06z14.c: Jim Szczęściarz](./s-prata/r06/r06z14.c).
+07. Instrukcje sterujące C: Rozgałęzienia i skoki
+    + [r07z01.c: Zliczanie znaków](./s-prata/r07/r07z01.c).
