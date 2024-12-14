@@ -291,4 +291,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r06z14.c: Jim Szczęściarz](./s-prata/r06/r06z14.c).
 07. Instrukcje sterujące C: Rozgałęzienia i skoki
     + [r07z01.c: Zliczanie znaków](./s-prata/r07/r07z01.c),
-    + [r07z02.c: Wyświetlanie znaków w formacie znak-kod](./s-prata/r07/r07z02.c).
+    + [r07z02.c: Wyświetlanie znaków w formacie znak-kod](./s-prata/r07/r07z02.c),
+    + [r07z03.c: Statystyki liczb parzystych i nieparzystych](./s-prata/r07/r07z03.c).
