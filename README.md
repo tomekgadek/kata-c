@@ -294,4 +294,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r07z02.c: Wyświetlanie znaków w formacie znak-kod](./s-prata/r07/r07z02.c),
     + [r07z03.c: Statystyki liczb parzystych i nieparzystych](./s-prata/r07/r07z03.c),
     + [r07z04.c: Praktyczne zastosowanie instrukcji if-else](./s-prata/r07/r07z04.c),
-    + [r07z05.c: Statystyki liczb parzystych i nieparzystych (switch())](./s-prata/r07/r07z05.c).
+    + [r07z05.c: Statystyki liczb parzystych i nieparzystych (switch())](./s-prata/r07/r07z05.c),
+    + [r07z06.c: Ile razy wystąpuł ciąg "an"](./s-prata/r07/r07z06.c).
