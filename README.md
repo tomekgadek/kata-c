@@ -298,4 +298,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r07z06.c: Ile razy wystąpuł ciąg "an"](./s-prata/r07/r07z06.c),
     + [r07z07.c: Kalkulator wynagrodzen](./s-prata/r07/r07z07.c),
     + [r07z08.c: Kalkulator wynagrodzen z menu](./s-prata/r07/r07z08.c),
-    + [r07z09.c: Liczby pierwsze](./s-prata/r07/r07z09.c).
+    + [r07z09.c: Liczby pierwsze](./s-prata/r07/r07z09.c),
+    + [r07z10.c: Amerykańska skala podatkowa](./s-prata/r07/r07z10.c).
