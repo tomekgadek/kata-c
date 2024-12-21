@@ -300,3 +300,6 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r07z08.c: Kalkulator wynagrodzen z menu](./s-prata/r07/r07z08.c),
     + [r07z09.c: Liczby pierwsze](./s-prata/r07/r07z09.c),
     + [r07z10.c: Amerykańska skala podatkowa](./s-prata/r07/r07z10.c).
+08. Znakowe wejście/wyjście i przekierowywanie
+    + [r08z01.c: Zliczanie znaków](./s-prata/r08/r08z01.c)
+    
