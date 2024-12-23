@@ -302,5 +302,6 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r07z10.c: Amerykańska skala podatkowa](./s-prata/r07/r07z10.c).
 08. Znakowe wejście/wyjście i przekierowywanie
     + [r08z01.c: Zliczanie znaków](./s-prata/r08/r08z01.c),
-    + [r08z02.c: Znak oraz dziesiętny kod ASCII](./s-prata/r08/r08z02.c).
+    + [r08z02.c: Znak oraz dziesiętny kod ASCII](./s-prata/r08/r08z02.c),
+    + [r08z03.c: Licznik małych i wielkich liter](./s-prata/r08/r08z03.c).
     
