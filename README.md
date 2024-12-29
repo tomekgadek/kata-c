@@ -306,4 +306,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r08z03.c: Licznik małych i wielkich liter](./s-prata/r08/r08z03.c),
     + [r08z04.c: Średnia liczba liter w słowie](./s-prata/r08/r08z04.c),
     + [r08z05.c: Strategia przeszukiwania dwudzielnego](./s-prata/r08/r08z05.c),
-    + [r08z06.c: Funkcja, która zwraca pierwszy napotkany znak drukowany](./s-prata/r08/r08z06.c).
+    + [r08z06.c: Funkcja, która zwraca pierwszy napotkany znak drukowany](./s-prata/r08/r08z06.c),
+    + [r08z07.c: Zmiana oznaczenia menu (z rozdziału 7, zad. 8) literami](./s-prata/r08/r08z07.c).
