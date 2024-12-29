@@ -308,3 +308,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r08z05.c: Strategia przeszukiwania dwudzielnego](./s-prata/r08/r08z05.c),
     + [r08z06.c: Funkcja, która zwraca pierwszy napotkany znak drukowany](./s-prata/r08/r08z06.c),
     + [r08z07.c: Zmiana oznaczenia menu (z rozdziału 7, zad. 8) literami](./s-prata/r08/r08z07.c).
+09. Funkcje
+    + [r09z01.c: Projekt funkcji min()](./s-prata/r09/r09z01.c).
