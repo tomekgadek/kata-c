@@ -1,5 +1,5 @@
 /*
-    r08z03.c: Średnia liczba liter w słowie
+    r08z04.c: Średnia liczba liter w słowie
 
     4. Napisz program, który odczytuje dane do napotkania końca pliku 
     i wyświetla średnią liczbę liter w słowie. Pamiętaj, że do liter nie można 

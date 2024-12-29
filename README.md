@@ -304,4 +304,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r08z01.c: Zliczanie znaków](./s-prata/r08/r08z01.c),
     + [r08z02.c: Znak oraz dziesiętny kod ASCII](./s-prata/r08/r08z02.c),
     + [r08z03.c: Licznik małych i wielkich liter](./s-prata/r08/r08z03.c),
-    + [r08z03.c: Średnia liczba liter w słowie](./s-prata/r08/r08z04.c).
+    + [r08z04.c: Średnia liczba liter w słowie](./s-prata/r08/r08z04.c),
+    + [r08z05.c: Strategia przeszukiwania dwudzielnego](./s-prata/r08/r08z05.c).
