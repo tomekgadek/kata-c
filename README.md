@@ -311,4 +311,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
 09. Funkcje
     + [r09z01.c: Projekt funkcji min()](./s-prata/r09/r09z01.c),
     + [r09z02.c: Znak w klumnach od 'i' do 'j'](./s-prata/r09/r09z02.c),
-    + [r09z03.c: Wyświetlanie znaków w wierszach](./s-prata/r09/r09z03.c).
+    + [r09z03.c: Wyświetlanie znaków w wierszach](./s-prata/r09/r09z03.c),
+    + [r09z04.c: Średnia harmoniczna](./s-prata/r09/r09z04.c).
