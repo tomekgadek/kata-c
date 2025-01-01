@@ -315,4 +315,6 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r09z04.c: Średnia harmoniczna](./s-prata/r09/r09z04.c),
     + [r09z05.c: Czy to litera?](./s-prata/r09/r09z05.c),
     + [r09z06.c: Potęgowanie przy pomocy pętli programowej](./s-prata/r09/r09z06.c),
-    + [r09z07.c: Potęgowanie przy pomocy funkcji rekurencynej](./s-prata/r09/r09z07.c).
+    + [r09z07.c: Potęgowanie przy pomocy funkcji rekurencynej](./s-prata/r09/r09z07.c),
+    + [r09z08.c: Systemy liczbowe](./s-prata/r09/r09z08.c).
+10. Tablice i wzkaźniki
