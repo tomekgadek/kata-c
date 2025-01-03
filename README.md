@@ -318,4 +318,6 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r09z07.c: Potęgowanie przy pomocy funkcji rekurencynej](./s-prata/r09/r09z07.c),
     + [r09z08.c: Systemy liczbowe](./s-prata/r09/r09z08.c).
 10. Tablice i wzkaźniki
-    + [r10z01.c: Program meteorologiczny](./s-prata/r10/r10z01.c).
+    + [r10z01.c: Program meteorologiczny](./s-prata/r10/r10z01.c),
+    + [r10z02.c: Kopiowanie tablic](./s-prata/r10/r10z02.c).
+    

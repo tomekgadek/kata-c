@@ -1,7 +1,7 @@
 /*
     r10z01.c: Program meteorologiczny
 
-    10. Zmodyfikuj program meteorologiczny z listingu 10.12 tak, aby wykonywał
+    1. Zmodyfikuj program meteorologiczny z listingu 10.12 tak, aby wykonywał
     on obliczenia korzystając ze wskaźników zamiast indeksów. (Nadal konieczna
     jest deklaracja i inicjalizacja tablicy).
 */
