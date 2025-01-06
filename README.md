@@ -322,4 +322,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r10z02.c: Kopiowanie tablic](./s-prata/r10/r10z02.c),
     + [r10z03.c: Pobierz największy element z tablicy](./s-prata/r10/r10z03.c),
     + [r10z04.c: Pobierz indeks największego elementu z tablicy](./s-prata/r10/r10z04.c),
-    + [r10z05.c: Różnica między największym i najmniejszym elementem tablicy](./s-prata/r10/r10z05.c).
+    + [r10z05.c: Różnica między największym i najmniejszym elementem tablicy](./s-prata/r10/r10z05.c),
+    + [10z06.c: Kopiowanie tablic dwuwymiarowych](./s-prata/r10/r10z06.c).
