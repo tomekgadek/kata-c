@@ -327,4 +327,6 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r10z07.c: Kopiowanie wybranych elementów](./s-prata/r10/r10z07.c),
     + [r10z08.c: Sumowanie tablic](./s-prata/r10/r10z08.c),
     + [r10z09.c: Podwajanie elementów tablicy dwuwymiarowej](./s-prata/r10/r10z09.c),
-    + [r10z10.c: Refaktoryzacja programu meteorologicznego](./s-prata/r10/r10z10.c).
+    + [r10z10.c: Refaktoryzacja programu meteorologicznego](./s-prata/r10/r10z10.c),
+    + [r10z11.c: Operacje na tablicy dwuwymiarowej](./s-prata/r10/r10z11.c).
+11. Łańcuchy znakowe i funkcje łańcuchowe
