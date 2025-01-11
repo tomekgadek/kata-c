@@ -8,7 +8,6 @@
 */
 
 #include <stdio.h>
-#include <string.h>
 
 char * my_strchr(char * message, char search_char);
 
