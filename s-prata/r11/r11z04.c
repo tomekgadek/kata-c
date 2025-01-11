@@ -9,7 +9,7 @@
 
 #include <stdio.h>
 
-char * my_strchr(char * message, char search_char);
+char *my_strchr(char *message, char search_char);
 
 int main(void) {
 
@@ -22,11 +22,11 @@ int main(void) {
     return 0;
 }
 
-char * my_strchr(char * message, char search_char) {
+char *my_strchr(char * message, char search_char) {
 
-    for( ; * message != search_char; message++);
+    for( ; *message != search_char; message++);
 
-    if(* message != '\0') {
+    if(*message != '\0') {
 
         return message;
     }
