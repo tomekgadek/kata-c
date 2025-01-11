@@ -335,4 +335,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r11z03.c: Funkcja pobierająca pierwsze słowo](./s-prata/r11/r11z03.c),
     + [r11z04.c: Funkcja podobna do funkcji bibliotecznej strchr()](./s-prata/r11/r11z04.c),
     + [r11z05.c: Czy znak znajduje się w łańcuchu?](./s-prata/r11/r11z05.c),
-    + [r11z06.c: Własna implementacja funkcji strncpy()](./s-prata/r11/r11z06.c).
+    + [r11z06.c: Własna implementacja funkcji strncpy()](./s-prata/r11/r11z06.c),
+    + [r11z07.c: Czy łańcuch zawiera się w drugim łańcuchu](./s-prata/r11/r11z07.c).
