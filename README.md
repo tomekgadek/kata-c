@@ -332,4 +332,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
 11. Łańcuchy znakowe i funkcje łańcuchowe
     + [r11z01.c: Funkcja pobierająca n znaków](./s-prata/r11/r11z01.c),
     + [r11z02.c: Funkcja pobierająca n znaków (modyfikacja)](./s-prata/r11/r11z02.c),
-    + [r11z03.c: Funkcja pobierająca pierwsze słowo](./s-prata/r11/r11z03.c).
+    + [r11z03.c: Funkcja pobierająca pierwsze słowo](./s-prata/r11/r11z03.c),
+    + [r11z04.c: Funkcja podobna do funkcji bibliotecznej strchr()](./s-prata/r11/r11z04.c).
