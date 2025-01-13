@@ -337,4 +337,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r11z05.c: Czy znak znajduje się w łańcuchu?](./s-prata/r11/r11z05.c),
     + [r11z06.c: Własna implementacja funkcji strncpy()](./s-prata/r11/r11z06.c),
     + [r11z07.c: Czy łańcuch zawiera się w drugim łańcuchu](./s-prata/r11/r11z07.c),
-    + [r11z08.c: Funkcja, która odwraca zawartość łańcucha](./s-prata/r11/r11z08.c).
+    + [r11z08.c: Funkcja, która odwraca zawartość łańcucha](./s-prata/r11/r11z08.c),
+    + [r11z09.c: Funkcja, która usuwa odstępy z łańcucha](./s-prata/r11/r11z09.c).
