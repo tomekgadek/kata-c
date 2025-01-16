@@ -164,17 +164,3 @@ void sort_by_first_word(char *lines[], int size) {
 
     show_lines(lines, size);
 }
-
-/*
->> 4
-1) Lala 
-2) Ala ma kota 
-3) Tomek romek i atom 
-4) ALicja w krainie 
-
->> 1
-1) Ala ma kota 
-2) ALicja w krainie 
-3) Tomek romek i atom 
-4) Lala 
-*/
