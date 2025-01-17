@@ -340,4 +340,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r11z08.c: Funkcja, która odwraca zawartość łańcucha](./s-prata/r11/r11z08.c),
     + [r11z09.c: Funkcja, która usuwa odstępy z łańcucha](./s-prata/r11/r11z09.c),
     + [r11z10.c: Operacje na łańcuchach znaków](./s-prata/r11/r11z10.c),
-    + [r11z11.c: Wyświetlanie danych statystycznych o wczytanym tekscie](./s-prata/r11/r11z11.c).
+    + [r11z11.c: Wyświetlanie danych statystycznych o wczytanym tekscie](./s-prata/r11/r11z11.c),
+    + [r11z12.c: Praca z argumentami wiersza poleceń](./s-prata/r11/r11z12.c).
