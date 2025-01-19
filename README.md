@@ -343,4 +343,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r11z11.c: Wyświetlanie danych statystycznych o wczytanym tekscie](./s-prata/r11/r11z11.c),
     + [r11z12.c: Praca z argumentami wiersza poleceń](./s-prata/r11/r11z12.c),
     + [r11z13.c: Praca z argumentami wiersza poleceń (potęgowanie)](./s-prata/r11/r11z13.c),
-    + [r11z14.c: Własna implementacja funkcji atoi()](./s-prata/r11/r11z14.c).
+    + [r11z14.c: Własna implementacja funkcji atoi()](./s-prata/r11/r11z14.c),
+    + [r11z15.c: Praktyczne wykorzystanie wiersza poleceń](./s-prata/r11/r11z15.c).
