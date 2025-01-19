@@ -345,3 +345,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r11z13.c: Praca z argumentami wiersza poleceń (potęgowanie)](./s-prata/r11/r11z13.c),
     + [r11z14.c: Własna implementacja funkcji atoi()](./s-prata/r11/r11z14.c),
     + [r11z15.c: Praktyczne wykorzystanie wiersza poleceń](./s-prata/r11/r11z15.c).
+12. Obsługa plików
+    + [r12z01.c: Kopiowanie plików](./s-prata/r12/r12z01.c).
