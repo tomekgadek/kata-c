@@ -9,8 +9,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
-
 void open_file(char *);
 
 int main(int argc, char *argv[]) {
