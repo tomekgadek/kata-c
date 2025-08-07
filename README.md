@@ -348,4 +348,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
 12. Obsługa plików
     + [r12z01.c: Kopiowanie plików](./s-prata/r12/r12z01.c),
     + [r12z02.c: Zbiorowy odczyt plików z linii poleceń](./s-prata/r12/r12z02.c),
-    + [r12z03.c: Zbiorowy odczyt plików z linii poleceń oraz dopisywanie ich zawartości do pliku docelowego](./s-prata/r12/r12z03.c).
+    + [r12z03.c: Zbiorowy odczyt plików z linii poleceń oraz dopisywanie ich zawartości do pliku docelowego](./s-prata/r12/r12z03.c),
+    + [r12z04.c: Zastąpienie argumentów wiersza poleceń interaktywnym wejściem danych](./s-prata/r12/r12z04.c).
