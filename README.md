@@ -353,4 +353,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r12z05.c: Wyświetlanie sekwencyjne wierszy z plików](./s-prata/r12/r12z05.c),
     + [r12z06.c: Zliczanie wystąpień znaku w plikach](./s-prata/r12/r12z06.c),
     + [r12z07.c: Numeracja słów](./s-prata/r12/r12z07.c),
-    + [r12z08.c: Interaktywny odczyt fragmentów pliku tekstowego](./s-prata/r12/r12z08.c).
+    + [r12z08.c: Interaktywny odczyt fragmentów pliku tekstowego](./s-prata/r12/r12z08.c),
+    + [r12z09.c: Wyszukiwanie łańcucha w pliku](./s-prata/r12/r12z09.c).
