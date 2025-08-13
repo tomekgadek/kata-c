@@ -7,8 +7,6 @@
     (Ponieważ zadanie to wymaga przetwarzania łańcuchów, a nie znaków, użyj 
     funkcji fgets() zamiast getc(). Przeszukiwanie wiersza zrealizuj za pomocą 
     standardowej funkcji strstr(), opisanej krótko w Rozdziale 11.)
-    
-    
 */
 
 #include <stdio.h>
