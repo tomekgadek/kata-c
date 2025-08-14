@@ -39,7 +39,7 @@
     0 0 0 0 0 0 0 0 0 0 0 0 5 8 9 9 8 5 0 0 0 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 0 0 0 0 0 5 8 9 9 8 5 0 0 0 0 0 0 0 0 0 0 0 0
 
-    Dane wyjściowe mogły wyglądać następująco (są one zapisane w pliku danewy.txt):
+    Dane wyjściowe mogłyby wyglądać następująco (są one zapisane w pliku danewy.txt):
 
       #         *%##%*'           
         #       *%##%**'          

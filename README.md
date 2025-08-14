@@ -355,4 +355,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r12z07.c: Numeracja słów](./s-prata/r12/r12z07.c),
     + [r12z08.c: Interaktywny odczyt fragmentów pliku tekstowego](./s-prata/r12/r12z08.c),
     + [r12z09.c: Wyszukiwanie łańcucha w pliku](./s-prata/r12/r12z09.c),
-    + [r12z10.c: Jak pozostawić znak ograniczający w buforze wejściowym?](./s-prata/r12/r12z10.c).
+    + [r12z10.c: Jak pozostawić znak ograniczający w buforze wejściowym?](./s-prata/r12/r12z10.c),
+    + [r12z10.c: Cyfrowa reprezentacja rysunku](./s-prata/r12/r12z11.c).
