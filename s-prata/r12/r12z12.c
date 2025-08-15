@@ -76,7 +76,7 @@ void digits_to_signs(int picture_as_digits[][BOARD_WIDTH], char picture_as_signs
     }
 }
 
-void show_picture(char picture_as_signs[][BOARD_WIDTH+1], int lines) {
+void show_picture(char picture_as_signs[][BOARD_WIDTH + 1], int lines) {
 
     for(int i = 0; i < lines; i++) {
         printf("%s \n", picture_as_signs[i]);
