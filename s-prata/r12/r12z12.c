@@ -154,8 +154,9 @@ void mean_filter(int picture_as_digits[][BOARD_WIDTH], int lines) {
 
                 double avg = (mean_mask[LEFT] + mean_mask[RIGHT] + mean_mask[UP] + mean_mask[DOWN]) / (double)mean_mask[COUNT_NEIGHBORS];
                 mean_mask[POINT] = (int)round(avg);
-                picture_as_digits[i][j] = mean_mask[POINT];
             }
+
+            picture_as_digits[i][j] = mean_mask[POINT];
         }
     }
 }
