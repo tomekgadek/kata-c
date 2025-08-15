@@ -1,5 +1,5 @@
 /*
-    r12z10.c: Cyfrowa reprezentacja rysunku
+    r12z11.c: Cyfrowa reprezentacja rysunku
 
     Utwórz plik tekstowy składający się z 20 rzędów po 30 liczb całkowitych 
     rozdzielonych odstępami. Liczby powinny należeć do przedziału 0–9. Niech 
