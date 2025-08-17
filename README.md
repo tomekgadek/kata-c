@@ -359,3 +359,4 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r12z10.c: Cyfrowa reprezentacja rysunku](./s-prata/r12/r12z11.c),
     + [r12z12.c: Filtr uśredniający](./s-prata/r12/r12z12.c).
 13. Klasy zmiennych i opracowywanie programu
+    + [r13z01.c: Zakończenie programu po wpisaniu znaku #](./s-prata/r13/r13z01.c).
