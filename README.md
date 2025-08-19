@@ -360,4 +360,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r12z12.c: Filtr uśredniający](./s-prata/r12/r12z12.c).
 13. Klasy zmiennych i opracowywanie programu
     + [r13z01.c: Zakończenie programu po wpisaniu znaku #](./s-prata/r13/r13z01.c),
-    + [r13z02.c: Sortowanie liczb zmiennoprzecinkowych](./s-prata/r13/r13z02.c).
+    + [r13z02.c: Sortowanie liczb zmiennoprzecinkowych](./s-prata/r13/r13z02.c),
+    + [r13z03.c: Modyfikacja funkcji sort()](./s-prata/r13/r13z03.c).
