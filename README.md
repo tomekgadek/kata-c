@@ -364,4 +364,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r13z03.c: Modyfikacja funkcji sort()](./s-prata/r13/r13z03.c),
     + [r13z04.c: Zliczanie wywołań funkcji](./s-prata/r13/r13z04.c),
     + [r13z05.c: Generowanie i sortowanie liczb losowych](./s-prata/r13/r13z05.c),
-    + [r13z06.c: Generowanie i zliczanie liczb losowych](./s-prata/r13/r13z06.c).
+    + [r13z06.c: Generowanie i zliczanie liczb losowych](./s-prata/r13/r13z06.c),
+    + [r13z07.c: Program do symulacji rzutów wieloma kostkami](./s-prata/r13/r13z07.c).
