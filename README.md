@@ -366,4 +366,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r13z05.c: Generowanie i sortowanie liczb losowych](./s-prata/r13/r13z05.c),
     + [r13z06.c: Generowanie i zliczanie liczb losowych](./s-prata/r13/r13z06.c),
     + [r13z07.c: Program do symulacji rzutów wieloma kostkami](./s-prata/r13/r13z07.c),
-    + [r13z08.c: Sortowanie i zapisywanie słów do pliku](./s-prata/r13/r13z08.c).
+    + [r13z08.c: Sortowanie i zapisywanie słów do pliku](./s-prata/r13/r13z08.c),
+    + [r13z09.c: Pobieranie liczb całkowitych z treści pliku](./s-prata/r13/r13z09.c).
