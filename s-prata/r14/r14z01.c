@@ -47,7 +47,7 @@ struct month months[NUMBER_OF_MONTHS] = {
     { "Grudzien" , "gru" , 31 , 12 }
 };
 
-int days_including_month(char *, struct month *p_month, int last_idx);
+int days_including_month(char *month_name, struct month *p_month, int last_idx);
 
 int main(void) {
 
@@ -64,9 +64,10 @@ int main(void) {
 
 int days_including_month(char *month_name, struct month *p_month, int last_idx) {
 
-    int sum_days = p_month->days;
+    int sum_days = 0;
 
     while(strcmp(month_name, p_month->name) != 0) {
+
         sum_days += p_month->days;
 
         if(p_month->idx == last_idx) {
@@ -76,6 +77,8 @@ int days_including_month(char *month_name, struct month *p_month, int last_idx) 
 
         p_month++;
     }
+
+    sum_days += p_month->days;
     
     return sum_days;
 }
