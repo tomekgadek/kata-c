@@ -372,4 +372,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r13z11.c: Sortowanie wierszy z pliku tekstowego według średniej](./s-prata/r13/r13z11.c).
 14. Struktury i inne formy danych
     + [r14z01.c: Suma dni w roku do wybranego miesiąca (wersja z nazwą miesiąca)](./s-prata/r14/r14z01.c),
-    + [r14z02.c: Suma dni w wybranym dniu, miesiącu i roku](./s-prata/r14/r14z02.c).
+    + [r14z02.c: Suma dni w wybranym dniu, miesiącu i roku](./s-prata/r14/r14z02.c),
+    + [r14z03.c: Wyświetlanie książek w porządku alfabetycznym wg tytułu oraz całkowitej wartości książek](./s-prata/r14/r14z03.c).
