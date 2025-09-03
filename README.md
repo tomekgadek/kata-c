@@ -375,4 +375,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r14z02.c: Suma dni w wybranym dniu, miesiącu i roku](./s-prata/r14/r14z02.c),
     + [r14z03.c: Wyświetlanie książek w porządku alfabetycznym wg tytułu oraz całkowitej wartości książek](./s-prata/r14/r14z03.c),
     + [r14z04.c: Struktury zagnieżdżone](./s-prata/r14/r14z04.c),
-    + [r14z05.c: Średnia ocen studentów](./s-prata/r14/r14z05.c).
+    + [r14z05.c: Średnia ocen studentów](./s-prata/r14/r14z05.c),
+    + [r14z06.c: Statystyki koszykarzy](./s-prata/r14/r14z06.c).
