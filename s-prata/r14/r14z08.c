@@ -294,7 +294,6 @@ int load_data_from_file(struct colossus *ptr_fly, int rozmiar, char filename[]) 
     int i = 0;
     while(fscanf(file, "%02d). %c %s %s\n", 
         &ptr_fly[i].seat_id, &ptr_fly[i].reserved, ptr_fly[i].first_name, ptr_fly[i].last_name) == 4) {
-            printf("Wczytuje %d \n", ptr_fly[i].seat_id);
             i++;
     }
 
