@@ -379,4 +379,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r14z06.c: Statystyki koszykarzy](./s-prata/r14/r14z06.c),
     + [r14z07.c: Archiwum ksiazek - dodawanie, usuwanie, wyświetlanie i edycja rekordów](./s-prata/r14/r14z07.c),
     + [r14z08.c: Linie lotnicze Colossus - program do rezerwacji miejsc](./s-prata/r14/r14z08.c),
-    + [r14z09.c: Linie lotnicze Colossus - rozszerzenie programu o cztery rejsy](s-prata/r14/r14z09.c).
+    + [r14z09.c: Linie lotnicze Colossus - rozszerzenie programu o cztery rejsy](s-prata/r14/r14z09.c),
+    + [r14z10.c: Menu przy użyciu tablicy wskaźnikow do funkcji](./s-prata/r14/r14z10.c).
