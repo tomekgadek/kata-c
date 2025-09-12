@@ -383,4 +383,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r14z10.c: Menu przy użyciu tablicy wskaźnikow do funkcji](./s-prata/r14/r14z10.c).
 15. Manipulowanie bitami
     + [r15z01.c: Funkcja przetwarzająca łańcuch binarny na wartość liczbową](./s-prata/r15/r15z01.c),
-    + [r15z02.c: Operacje na łańcuchach binarnych](./s-prata/r15/r15z02.c).
+    + [r15z02.c: Operacje na łańcuchach binarnych](./s-prata/r15/r15z02.c),
+    + [r15z03.c: Program, który liczy ilość bitów włączonych w liczbie całkowitej](./s-prata/r15/r15z03.c).
