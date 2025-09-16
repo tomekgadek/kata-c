@@ -386,4 +386,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r15z02.c: Operacje na łańcuchach binarnych](./s-prata/r15/r15z02.c),
     + [r15z03.c: Program, który liczy ilość bitów włączonych w liczbie całkowitej](./s-prata/r15/r15z03.c),
     + [r15z04.c: Program wyznaczający wartość bitu o wskazanym numerze](./s-prata/r15/r15z04.c),
-    + [r15z05.c: Program obracający bity w lewo](./s-prata/r15/r15z05.c).
+    + [r15z05.c: Program obracający bity w lewo](./s-prata/r15/r15z05.c),
+    + [r15z06.c: Program wykorzystujący operacje bitowe zamiast pól bitowych](./s-prata/r15/r15z06.c).
