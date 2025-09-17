@@ -388,3 +388,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r15z04.c: Program wyznaczający wartość bitu o wskazanym numerze](./s-prata/r15/r15z04.c),
     + [r15z05.c: Program obracający bity w lewo](./s-prata/r15/r15z05.c),
     + [r15z06.c: Program wykorzystujący operacje bitowe zamiast pól bitowych](./s-prata/r15/r15z06.c).
+16. Preprocesor i biblioteka C
+
