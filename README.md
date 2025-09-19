@@ -389,4 +389,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r15z05.c: Program obracający bity w lewo](./s-prata/r15/r15z05.c),
     + [r15z06.c: Program wykorzystujący operacje bitowe zamiast pól bitowych](./s-prata/r15/r15z06.c).
 16. Preprocesor i biblioteka C
-    + [r16z01.h: Plik nagłówkowy zawierający definicje makr](./s-prata/r16/r16z01.h).
+    + [r16z01.h: Plik nagłówkowy zawierający definicje makr](./s-prata/r16/r16z01.h),
+    + [r15z02.c: Średnia harmoniczna](./s-prata/r16/r16z02.c).
