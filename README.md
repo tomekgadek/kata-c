@@ -393,4 +393,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r15z02.c: Średnia harmoniczna](./s-prata/r16/r16z02.c),
     + [r16z03.c: Współrzędne kartezjańskie i biegunowe](./s-prata/r16/r16z03.c),
     + [r16z04.c: Współrzędne kartezjańskie i biegunowe z użyciem struktur](./s-prata/r16/r16z04.c),
-    + [r16z05.c: Program zapisujący nazwy programów telewizyjnych do pliku](./s-prata/r16/r16z05.c).
+    + [r16z05.c: Program zapisujący nazwy programów telewizyjnych do pliku](./s-prata/r16/r16z05.c),
+    + [r16z06.c: Program zapisujący nazwy programów telewizyjnych do pliku z długościami łańcuchów](./s-prata/r16/r16z06.c).
