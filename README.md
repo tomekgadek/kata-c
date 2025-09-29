@@ -396,4 +396,5 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r16z05.c: Program zapisujący nazwy programów telewizyjnych do pliku](./s-prata/r16/r16z05.c),
     + [r16z06.c: Program zapisujący nazwy programów telewizyjnych do pliku z długościami łańcuchów](./s-prata/r16/r16z06.c),
     + [r16z07.c: Program implementujący funkcję wait()](./s-prata/r16/r16z07.c),
-    + [r16z08.c: Program losujący liczby jak w totolotku](./s-prata/r16/r16z08.c).
+    + [r16z08.c: Program losujący liczby jak w totolotku](./s-prata/r16/r16z08.c),
+    + [r16z09.c: Porządkowanie tablicy struktur](./s-prata/r16/r16z09.c).
