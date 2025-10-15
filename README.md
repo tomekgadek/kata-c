@@ -398,3 +398,11 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
     + [r16z07.c: Program implementujący funkcję wait()](./s-prata/r16/r16z07.c),
     + [r16z08.c: Program losujący liczby jak w totolotku](./s-prata/r16/r16z08.c),
     + [r16z09.c: Porządkowanie tablicy struktur](./s-prata/r16/r16z09.c).
+
+**Wskaźniki a const**
+
+| Deklaracja               | Znaczenie praktyczne                                                                                |
+| ------------------------ | --------------------------------------------------------------------------------------------------- |
+| `const float *wsk`       | **Można** zmienić adres `wsk`, **nie można** zmienić wartości `wsk`, **można** przesuwać wskaźnik.  |
+| `float *const wsk`       | **Nie można** zmienić adresu `wsk` – wskaźnik jest stały, **można** zmieniać wartość `wsk`.         |
+| `const float *const wsk` | **Nie można** zmienić adresu `wsk`, **nie można** zmienić wartości `wsk` — wszystko zablokowane.    |
