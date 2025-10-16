@@ -406,3 +406,20 @@ Język C, Szkoła programowania, Stephen Prata - rozwiązania zadań
 | `const float *wsk`       | **Można** zmienić adres `wsk`, **nie można** zmienić wartości `wsk`, **można** przesuwać wskaźnik.  |
 | `float *const wsk`       | **Nie można** zmienić adresu `wsk` – wskaźnik jest stały, **można** zmieniać wartość `wsk`.         |
 | `const float *const wsk` | **Nie można** zmienić adresu `wsk`, **nie można** zmienić wartości `wsk` — wszystko zablokowane.    |
+
+**Przekierowania w konsoli**
+
+| Składnia                                  | Opis                                                          | 
+| ----------------------------------------- | ------------------------------------------------------------- |
+| `program.exe < plik.txt`                  | Wejście programu pochodzi z pliku (zamiast z klawiatury).     |
+| `program.exe > plik.txt`                  | Wyjście programu trafia do pliku (nadpisuje plik).            |
+| `program.exe >> plik.txt`                 | Wyjście programu dopisywane jest na końcu istniejącego pliku. |
+| `program.exe < wejscie.txt > wyjscie.txt` | Czyta dane z `wejscie.txt`, zapisuje wynik do `wyjscie.txt`.  |
+| `program1.exe \| program2.exe`            | Wyjście `program1` → wejście `program2` (potok).              |
+
+**Zakończenie wejścia z konsoli**
+
+```bash
+CTRL+Z # Windows
+CTRL+D # Linux / Mac
+```
