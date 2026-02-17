@@ -19,8 +19,8 @@ Algorytmy i struktury danych
 2. Sortowanie:
     * [Sortowanie bąbelkowe](/algorithms/bubble_sort.c).
 3. Listy liniowe:
-    * [Lista jednokierunkowa](/c-in-24h/24H/lnk_list.c),
-    * Lista dwukierunkowa.
+    * [Lista jednokierunkowa](/c-in-24h/24H/lnk_list.h),
+    * [Lista dwukierunkowa](https://github.com/tomekgadek/matrix/blob/master/variables/variables.h).
 4. [Stos](/algorithms/stack/stack.c).
 
 Rekurencja
