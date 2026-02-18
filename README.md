@@ -85,6 +85,12 @@ Rozwiązania zadań ([spoj](https://pl.spoj.com/)).
 22. [Histogram](./spoj/hist.c),
 23. [Sortowanie punktów](./spoj/sort-points.c).
 
+Szyfry proste
+-------------
+
+1. [Szyfr Cezara](./ciphers/caesar/caesar.h),
+2. [Szyfr płotowy](./ciphers/fence/fence.h).
+
 Poznaj C w 24 godziny, Tony Zhang - gotowe listingi (PL)
 --------------------------------------------------------
 ![C in 24h](./c-in-24h/book/c-24h-book.png)
